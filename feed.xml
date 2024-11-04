@@ -2,17 +2,17 @@
 <rss version="2.0">
     <channel>
         <title>Your Site Title</title>
-        <link>https://yourusername.github.io/yourrepository</link>
-        <description>Your site description here</description>
+        <link>https://martinezworldwide.github.io/rssfeed</link>
+        <description>RSS Feed</description>
         <language>en-us</language>
         
         <!-- Example of an individual item in the feed -->
         <item>
-            <title>Post Title 1</title>
-            <link>https://yourusername.github.io/yourrepository/post-url-1</link>
-            <description>Summary or description of post 1</description>
+            <title>CNN</title>
+            <link>https://www.cnn.com</link>
+            <description>Cable News Network</description>
             <pubDate>Tue, 03 Nov 2024 16:00:00 GMT</pubDate>
-            <guid>https://yourusername.github.io/yourrepository/post-url-1</guid>
+            <guid>https://www.cnn.com</guid>
         </item>
         
         <!-- Add more items as needed -->
