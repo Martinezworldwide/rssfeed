@@ -1,4 +1,4 @@
-# Super RSS Feed
+# Super RSS Feed--
 
 High-tech multi-source news aggregator built with **TypeScript**, **Vite**, and **GSAP animations**.
 
