@@ -1,0 +1,1930 @@
+{
+  "generatedAt": "2026-07-14T17:53:08.564Z",
+  "totalItems": 195,
+  "feeds": {
+    "cnn": {
+      "sourceId": "cnn",
+      "items": [
+        {
+          "id": "cnn-0-82",
+          "sourceId": "cnn",
+          "title": "Some on-air claims about Dominion Voting Systems were false, Fox News acknowledges in statement after deal is announced",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/index.html",
+          "description": "",
+          "pubDate": "2023-04-19T12:44:51.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-1-106",
+          "sourceId": "cnn",
+          "title": "Dominion still has pending lawsuits against election deniers such as Rudy Giuliani and Sidney Powell",
+          "link": "https://www.cnn.com/business/live-news/fox-news-dominion-trial-04-18-23/h_8d51e3ae2714edaa0dace837305d03b8",
+          "description": "",
+          "pubDate": "2026-07-14T17:53:07.888Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-2-77",
+          "sourceId": "cnn",
+          "title": "Here are the 20 specific Fox broadcasts and tweets Dominion says were defamatory",
+          "link": "https://www.cnn.com/2023/04/17/media/dominion-fox-news-allegations/index.html",
+          "description": "• Fox-Dominion trial delay 'is not unusual,' judge says\n• Fox News' defamation battle isn't stopping Trump's election lies",
+          "pubDate": "2023-04-17T16:01:11.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-3-71",
+          "sourceId": "cnn",
+          "title": "Judge in Fox News-Dominion defamation trial: 'The parties have resolved their case'",
+          "link": "https://www.cnn.com/2023/04/18/media/fox-dominion-settlement/index.html",
+          "description": "The judge just announced in court that a settlement has been reached in the historic defamation case between Fox News and Dominion Voting Systems.",
+          "pubDate": "2023-04-19T08:28:17.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-4-118",
+          "sourceId": "cnn",
+          "title": "'Difficult to say with a straight face': Tapper reacts to Fox News' statement on settlement",
+          "link": "https://www.cnn.com/videos/politics/2023/04/18/jake-tapper-dominion-lawsuit-settlement-fox-news-statement-lead-vpx.cnn",
+          "description": "A settlement has been reached in Dominion Voting Systems' defamation case against Fox News, the judge for the case announced. The network will pay more than $787 million to Dominion, a lawyer for the company said.",
+          "pubDate": "2023-04-18T21:17:44.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-5-78",
+          "sourceId": "cnn",
+          "title": "Millions in the US could face massive consequences unless McCarthy can navigate out of a debt trap he set for Biden",
+          "link": "https://www.cnn.com/2023/04/18/politics/mccarthy-biden-debt-ceiling/index.html",
+          "description": "• DeSantis goes to Washington, a place he once despised, looking for support to take on Trump\n• Opinion: For the GOP to win, it must ditch Trump\n• Chris Christie mulling 2024 White House bid\n• Analysis: The fire next time has begun burning in Tennessee",
+          "pubDate": "2023-04-18T20:34:45.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-6-84",
+          "sourceId": "cnn",
+          "title": "White homeowner accused of shooting a Black teen who rang his doorbell turns himself in to face criminal charges",
+          "link": "https://www.cnn.com/2023/04/18/us/kansas-city-ralph-yarl-shooting-tuesday/index.html",
+          "description": "• 'A major part of Ralph died': Aunt of teen shot after ringing wrong doorbell speaks\n• 20-year-old woman shot after friend turned into the wrong driveway in upstate New York, officials say",
+          "pubDate": "2023-04-19T04:29:05.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-7-103",
+          "sourceId": "cnn",
+          "title": "Newly released video shows scene of Jeremy Renner's snowplow accident",
+          "link": "https://www.cnn.com/videos/us/2023/04/18/jeremy-renner-snowplow-accident-bodycam-nc-melas-contd-vpx.cnn",
+          "description": "Newly released body camera footage shows firefighters and sheriff's deputies rushing to help actor Jeremy Renner after a near-fatal snowplow accident in January. The \"Avengers\" actor broke more than 30 bones and suffered other severe injuries. CNN's Chloe Melas has more.",
+          "pubDate": "2023-04-18T14:09:43.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-8-104",
+          "sourceId": "cnn",
+          "title": "Jake Gyllenhaal and Jamie Lee Curtis spent the Covid-19 lockdown together",
+          "link": "https://www.cnn.com/2023/04/18/entertainment/jake-gyllenhaal-jamie-lee-curtis-pandemic-living/index.html",
+          "description": "It's sourdough bread and handstands for Jake Gyllenhaal and Jamie Lee Curtis.",
+          "pubDate": "2023-04-18T14:40:32.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-9-70",
+          "sourceId": "cnn",
+          "title": "Toddler crawls through White House fence, prompts Secret Service response",
+          "link": "https://www.cnn.com/2023/04/18/politics/white-house-toddler/index.html",
+          "description": "A tiny intruder infiltrated White House grounds Tuesday, prompting a swift response from the US Secret Service.",
+          "pubDate": "2023-04-18T17:38:16.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-10-87",
+          "sourceId": "cnn",
+          "title": "Jamie Foxx remains hospitalized nearly a week after 'medical complication'",
+          "link": "https://www.cnn.com/2023/04/17/entertainment/jamie-foxx-remains-hospitalized/index.html",
+          "description": "Jamie Foxx remains hospitalized in Georgia nearly a week after his daughter revealed the actor experienced a \"medical complication,\" a source with knowledge of the matter told CNN on Monday.",
+          "pubDate": "2023-04-18T00:27:07.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-11-90",
+          "sourceId": "cnn",
+          "title": "A 13-year-old dies after participating in a Benadryl TikTok 'challenge'",
+          "link": "https://www.cnn.com/2023/04/18/us/benadryl-tiktok-challenge-teen-death-wellness/index.html",
+          "description": "A 13-year-old in Ohio has died after \"he took a bunch of Benadryl,\" trying a dangerous TikTok challenge that's circulating online, according to a CNN affiliate and a GoFundMe account from his family.",
+          "pubDate": "2023-04-19T15:01:06.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-12-85",
+          "sourceId": "cnn",
+          "title": "See pizza delivery guy take out suspect fleeing police",
+          "link": "https://www.cnn.com/videos/us/2023/04/18/pizza-guy-trips-perp-moos-cprog-orig-bdk.cnn",
+          "description": "Pizza guy delivers more than a pie, taking out a fleeing suspect. CNN's Jeanne Moos shows him putting his best foot forward.",
+          "pubDate": "2023-04-18T16:40:22.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-13-73",
+          "sourceId": "cnn",
+          "title": "Netflix is winding down its DVD business after 25 years",
+          "link": "https://www.cnn.com/2023/04/18/media/netflix-dvd-red-envelopes/index.html",
+          "description": "Netflix is officially winding down the business that helped make it a household name.",
+          "pubDate": "2023-04-18T20:10:51.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-14-67",
+          "sourceId": "cnn",
+          "title": "FTC chair Lina Khan warns AI could 'turbocharge' fraud and scams",
+          "link": "https://www.cnn.com/2023/04/18/tech/lina-khan-ai-warning/index.html",
+          "description": "Artificial intelligence tools such as ChatGPT could lead to a \"turbocharging\" of consumer harms including fraud and scams, and the US government has substantial authority to crack down on AI-driven consumer harms under existing law, members of the Federal Trade Commission said Tuesday.",
+          "pubDate": "2023-04-18T17:59:38.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-15-85",
+          "sourceId": "cnn",
+          "title": "Eating too much of these foods is driving the rise in type 2 diabetes, study says",
+          "link": "https://www.cnn.com/2023/04/17/health/rise-type-2-diabetes-global-wellness/index.html",
+          "description": "Gobbling up too many refined wheat and rice products, along with eating too few whole grains, is fueling the growth of new cases of type 2 diabetes worldwide, according to a new study that models data through 2018.",
+          "pubDate": "2023-04-17T16:02:46.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-16-79",
+          "sourceId": "cnn",
+          "title": "ADHD medication abuse in schools is a 'wake-up call'",
+          "link": "https://www.cnn.com/2023/04/18/health/teen-misuse-adhd-meds-wellness/index.html",
+          "description": "At some middle and high schools in the United States, 1 in 4 teens report they've abused prescription stimulants for attention deficit hyperactivity disorder during the year prior, a new study found.",
+          "pubDate": "2023-04-25T17:44:36.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-17-111",
+          "sourceId": "cnn",
+          "title": "Apple CEO was presented with an original Macintosh. See his reaction",
+          "link": "https://www.cnn.com/videos/tech/2023/04/18/apple-store-mumbai-india-ceo-tim-cook-vedika-sud-ovn-biz-ldn-vpx.cnn",
+          "description": "CEO Tim Cook personally welcomed customers to the new Apple store in Mumbai as the tech company opens its first retail stores in India. CNN's Vedika Sud reports.",
+          "pubDate": "2023-04-18T09:17:25.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-18-83",
+          "sourceId": "cnn",
+          "title": "Democrats bash Justice Clarence Thomas but their plan to investigate ethics allegations is unclear",
+          "link": "https://www.cnn.com/2023/04/18/politics/clarence-thomas-ethics-democrats/index.html",
+          "description": "Senate Democrats railed against Justice Clarence Thomas on Tuesday amid reports that the Supreme Court conservative failed to disclose luxury travel, gifts and a real estate transaction involving a GOP megadonor, but their plan to investigate the conservative jurist remains unclear.",
+          "pubDate": "2023-04-18T20:29:46.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-19-80",
+          "sourceId": "cnn",
+          "title": "Russia is 'going backwards' in equipment and deploying post WWII-era tanks, according to Western officials",
+          "link": "https://www.cnn.com/europe/live-news/russia-ukraine-war-news-04-18-23/index.html",
+          "description": "• Jailed Wall Street Journal reporter Evan Gershkovich denied detention appeal in Moscow\n• Putin visits Russian troops at military headquarters in Kherson\n• Watch moment WSJ journalist appears in Russian court",
+          "pubDate": "2026-07-14T17:53:07.888Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-20-96",
+          "sourceId": "cnn",
+          "title": "Two Russians claiming to be former Wagner commanders admit killing children and civilians in Ukraine",
+          "link": "https://www.cnn.com/2023/04/17/europe/wagner-commanders-russia-kill-children-intl-hnk/index.html",
+          "description": "Two Russian men who claim to be former Wagner Group commanders have told a human rights activist that they killed children and civilians during their time in Ukraine.",
+          "pubDate": "2023-04-18T19:07:52.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-21-96",
+          "sourceId": "cnn",
+          "title": "'My stomach is hurting from laughing': Hear panelist's reaction to DeSantis' threat to Disney",
+          "link": "https://www.cnn.com/videos/business/2023/04/18/desantis-disney-competition-panel-reax-pt-vpx.cnn",
+          "description": "CNN panelists react to Florida Gov. Ron DeSantis floating the idea of building a competing theme park next to Disney World in Orlando.",
+          "pubDate": "2023-04-18T03:24:56.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-22-87",
+          "sourceId": "cnn",
+          "title": "GOP prepared to block vote to replace Feinstein on Senate Judiciary",
+          "link": "https://www.cnn.com/2023/04/18/politics/schumer-senate-feinstein-vote-cardin/index.html",
+          "description": "Senate Majority Leader Chuck Schumer said on Tuesday that he hopes to replace Democratic Sen. Dianne Feinstein on the Senate Judiciary Committee with Sen. Ben Cardin of Maryland and aims to set up a floor vote on the issue this afternoon, which Republicans are expected to block.",
+          "pubDate": "2023-04-18T22:03:13.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-23-90",
+          "sourceId": "cnn",
+          "title": "Oklahoma governor calls on officials to resign over recording of racist and threatening remarks",
+          "link": "https://www.cnn.com/2023/04/18/us/mccurtain-county-oklahoma-officials-recording/index.html",
+          "description": "",
+          "pubDate": "2023-04-18T17:33:17.000Z",
+          "category": "news"
+        },
+        {
+          "id": "cnn-24-115",
+          "sourceId": "cnn",
+          "title": "McCarthy slams Biden in handling of US debt",
+          "link": "https://www.cnn.com/videos/politics/2023/04/18/kevin-mccarthy-wall-street-speech-debt-ceiling-biden-economy-vpx.cnn",
+          "description": "House Speaker Kevin McCarthy traveled to Wall Street on Monday to deliver a fresh warning that the House GOP majority will refuse to lift a cap on government borrowing unless Biden agrees to spending cuts that would effectively neutralize his domestic agenda.",
+          "pubDate": "2023-04-18T22:03:01.000Z",
+          "category": "news"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.889Z"
+    },
+    "fox-news": {
+      "sourceId": "fox-news",
+      "items": [
+        {
+          "id": "fox-news-0-116",
+          "sourceId": "fox-news",
+          "title": "Texas teens arrested after 18-year-old found dead in Dallas-area lake as family demands answers",
+          "link": "https://www.foxnews.com/us/texas-teens-arrested-after-18-year-old-found-dead-dallas-area-lake-family-demands-answers",
+          "description": "Two suspects face tampering with evidence charges after Daniel Erving drowned at Lake Ray Hubbard in the Dallas area, but his family says the case demands a grand jury.",
+          "pubDate": "2026-07-14T17:50:38.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-1-116",
+          "sourceId": "fox-news",
+          "title": "Pro wrestling legend Tommy Dreamer vows violence in upcoming ACW match in New York: &apos;Hell to pay&apos;",
+          "link": "https://www.foxnews.com/sports/pro-wrestling-legend-tommy-dreamer-vows-violence-upcoming-acw-match-new-york-hell-pay",
+          "description": "Tommy Dreamer warns fans about the violence they may witness in his lumberjack match against Josh Shernoff at ACW Indypendence Day in Poughkeepsie.",
+          "pubDate": "2026-07-14T17:50:21.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-2-106",
+          "sourceId": "fox-news",
+          "title": "Ohio mom arrested for having 16 kids in &apos;evil&apos; living conditions wants to be reunited with children: lawyer",
+          "link": "https://www.foxnews.com/us/ohio-mom-arrested-16-kids-evil-living-conditions-wants-reunited-children-lawyer",
+          "description": "Elizabeth Siders asked a judge to reunite her with the 16 children she is accused of endangering, as her attorney argues she poses no threat now.",
+          "pubDate": "2026-07-14T17:49:56.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-3-104",
+          "sourceId": "fox-news",
+          "title": "JD Vance defends &apos;The View&apos; appearance, explains the need to engage with hostile environments",
+          "link": "https://www.foxnews.com/media/jd-vance-defends-view-appearance-explains-need-engage-hostile-environments",
+          "description": "JD Vance told Mike Rowe on his podcast why he chose to appear on \"The View\" and face a hostile environment, arguing that it helps bridge the country&apos;s division.",
+          "pubDate": "2026-07-14T17:47:28.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-4-119",
+          "sourceId": "fox-news",
+          "title": "Matt Damon refuses to put body in &apos;dangerous&apos; situations for Hollywood roles after turning 50",
+          "link": "https://www.foxnews.com/entertainment/matt-damon-refuses-put-body-dangerous-situations-hollywood-roles-after-turning-50",
+          "description": "Matt Damon dropped to 167 pounds for Christopher Nolan&apos;s \"The Odyssey\" by cutting gluten, but the dietary shift was only part of his grueling journey.",
+          "pubDate": "2026-07-14T17:47:08.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-5-112",
+          "sourceId": "fox-news",
+          "title": "Trump declares US military no longer needed in Iraq as Baghdad shifts course",
+          "link": "https://www.foxnews.com/politics/trump-us-no-longer-needs-military-presence-iraq-pm-moves-against-armed-factions",
+          "description": "President Donald Trump says Iran has been \"very much destabilized,\" arguing Iraq no longer needs U.S. military presence as the coalition mission nears its end.",
+          "pubDate": "2026-07-14T17:46:52.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-6-106",
+          "sourceId": "fox-news",
+          "title": "NFL fans roast NBC analyst after Tom Brady&apos;s low placement on controversial QB ranking",
+          "link": "https://www.foxnews.com/sports/nfl-fans-roast-nbc-analyst-tom-brady-low-placement-controversial-qb-ranking",
+          "description": "NFL fans erupted after Chris Simms ranked Josh Allen and Lamar Jackson ahead of Tom Brady on a list of quarterbacks based solely on the prime of their careers.",
+          "pubDate": "2026-07-14T17:38:44.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-7-119",
+          "sourceId": "fox-news",
+          "title": "Missouri nurse found dead months after anesthesiologist husband admitted to assaulting woman",
+          "link": "https://www.foxnews.com/us/missouri-nurse-found-dead-months-after-anesthesiologist-husband-admitted-to-assaulting-woman",
+          "description": "Alexandra Hummel, 36, was found unresponsive at her Missouri home as authorities ordered an autopsy. Her husband previously pleaded guilty to assault.",
+          "pubDate": "2026-07-14T17:34:33.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-8-124",
+          "sourceId": "fox-news",
+          "title": "New Hampshire resentencing gives Dartmouth killer Robert Tulloch a parole path after Supreme Court ruling",
+          "link": "https://www.foxnews.com/us/new-hampshire-resentencing-gives-dartmouth-killer-robert-tulloch-parole-path-supreme-court-ruling",
+          "description": "Robert Tulloch&apos;s resentencing hearing in Grafton Superior Court lasted about an hour as both sides reached a joint recommendation of 45 years to life.",
+          "pubDate": "2026-07-14T17:30:18.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-9-115",
+          "sourceId": "fox-news",
+          "title": "MLB commissioner says Trump &apos;interested&apos; in MLB CBA negotiations but &apos;will pass&apos; on potential help",
+          "link": "https://www.foxnews.com/sports/mlb-commissioner-says-trump-interested-mlb-cba-negotiations-will-pass-potential-help",
+          "description": "Rob Manfred declined to speculate on Trump&apos;s potential involvement in baseball labor talks as owners propose a salary cap for the first time since 1994.",
+          "pubDate": "2026-07-14T17:24:27.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-10-122",
+          "sourceId": "fox-news",
+          "title": "Pritzker skewered as ‘victim of his own’ policy after repeat offender arrested in governor’s backyard",
+          "link": "https://www.foxnews.com/politics/pritzker-skewered-victim-his-own-policy-after-repeat-offender-arrested-governors-backyard",
+          "description": "A repeat offender was arrested after jumping a fence at the Illinois governor&apos;s home on July 4th, reigniting criticism of bail reform policies.",
+          "pubDate": "2026-07-14T17:14:56.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-11-116",
+          "sourceId": "fox-news",
+          "title": "Missing Canadian hiker found dead 2 weeks after vanishing during mountain trek in Washington",
+          "link": "https://www.foxnews.com/us/missing-canadian-hiker-found-dead-2-weeks-after-vanishing-during-mountain-trek-washington",
+          "description": "Gursimran Singh&apos;s body was found in the Twin Sisters mountains after a massive search involving helicopters, drones and crews from across Washington.",
+          "pubDate": "2026-07-14T17:14:20.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-12-121",
+          "sourceId": "fox-news",
+          "title": "WATCH: GOP senators rally behind Lindsey Graham&apos;s sister as successor, remember late senator&apos;s legacy",
+          "link": "https://www.foxnews.com/politics/gop-senators-rally-behind-lindsey-grahams-sister-successor-remember-late-senators-legacy",
+          "description": "GOP senators rallied behind Darline Graham Nordone after Gov. Henry McMaster appointed her to fill her late brother&apos;s South Carolina Senate seat.",
+          "pubDate": "2026-07-14T17:14:03.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-13-123",
+          "sourceId": "fox-news",
+          "title": "Arkansas students outperform national average after universal school choice expansion, governor says",
+          "link": "https://www.foxnews.com/media/arkansas-students-outperform-national-average-universal-school-choice-expansion-governor-says",
+          "description": "About 50,000 kids participated in Arkansas&apos; Education Freedom Account program as standardized test results show scores above the national average.",
+          "pubDate": "2026-07-14T17:06:20.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-14-129",
+          "sourceId": "fox-news",
+          "title": "Conor McGregor launches &apos;World&apos;s Baddest Man&apos; fighting tournament series on Fox Nation with eight-figure prize",
+          "link": "https://www.foxnews.com/media/conor-mcgregor-launches-worlds-baddest-man-fighting-tournament-series-fox-nation-eight-figure-prize",
+          "description": "Conor McGregor and Bare Knuckle Fighting Championship host a grueling elimination tournament with an eight-figure prize pool, chronicling fighters&apos; paths to the championship.",
+          "pubDate": "2026-07-14T17:03:59.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-15-124",
+          "sourceId": "fox-news",
+          "title": "&apos;McDonald&apos;s changed the course of my life&apos;: Congressman sells business he built since his teen years",
+          "link": "https://www.foxnews.com/food-drink/mcdonalds-changed-course-my-life-congressman-sells-business-he-built-since-his-teen-years",
+          "description": "Chuck Edwards started at McDonald&apos;s as a 16-year-old, bought that same restaurant and built a franchise empire across western North Carolina. Now, he&apos;s sold his restaurants.",
+          "pubDate": "2026-07-14T17:02:56.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-16-107",
+          "sourceId": "fox-news",
+          "title": "University of Alabama student, father of 3 killed; suspect found hiding in attic, police say",
+          "link": "https://www.foxnews.com/us/university-alabama-student-father-3-killed-suspect-found-hiding-attic-police-say",
+          "description": "De&apos;Kendrick Crawford was found hiding in an attic crawl space after a University of Alabama student and a father of three were shot dead in a home.",
+          "pubDate": "2026-07-14T16:52:18.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-17-122",
+          "sourceId": "fox-news",
+          "title": "Folarin Balogun admits that red-card reversal affected USA World Cup teammates: &apos;A lot of outside noise&apos;",
+          "link": "https://www.foxnews.com/sports/folarin-balogun-admits-red-card-reversal-affected-usa-world-cup-teammates-lot-outside-noise",
+          "description": "Folarin Balogun revealed the emotional whirlwind inside the USMNT camp after his red card was suspended just one day before the Belgium match.",
+          "pubDate": "2026-07-14T16:36:21.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-18-107",
+          "sourceId": "fox-news",
+          "title": "English referee will miss out on massive World Cup final bonus due to controversial ban",
+          "link": "https://www.foxnews.com/outkick-sports/english-referee-miss-massive-world-cup-final-bonus-controversial-ban",
+          "description": "Michael Oliver and Anthony Taylor are banned from officiating both World Cup semifinals after England advanced, costing Oliver a six-figure payday.",
+          "pubDate": "2026-07-14T16:30:32.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-19-97",
+          "sourceId": "fox-news",
+          "title": "Mississippi teen accused of killing elderly couple had worked for them before shooting: family",
+          "link": "https://www.foxnews.com/us/mississippi-teen-accused-killing-elderly-couple-worked-shooting-family",
+          "description": "Cordarius Hobbs, 17, previously did work for Billy and Virginia Carol Blair before the alleged double homicide that sparked a standoff in Mississippi.",
+          "pubDate": "2026-07-14T16:07:12.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-20-108",
+          "sourceId": "fox-news",
+          "title": "National League pitching depth makes them the smart moneyline pick for MLB All-Star Game",
+          "link": "https://www.foxnews.com/outkick-sports/national-league-pitching-depth-smart-moneyline-pick-mlb-all-star-game",
+          "description": "The National League moneyline at -135 is the pick for the MLB All-Star Game thanks to a deeper roster and dominant pitching from Christopher Sanchez.",
+          "pubDate": "2026-07-14T16:06:22.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-21-84",
+          "sourceId": "fox-news",
+          "title": "Trump reveals who he&apos;s eyeing to replace Lindsey Graham",
+          "link": "https://www.foxnews.com/politics/trump-reveals-who-hes-eyeing-replace-lindsey-graham",
+          "description": "Trump called Rep. Russell Fry \"outstanding\" and hinted the South Carolina congressman could win the Aug. 11 special election for the open seat.",
+          "pubDate": "2026-07-14T16:01:57.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-22-110",
+          "sourceId": "fox-news",
+          "title": "&apos;The View&apos; co-host Sunny Hostin doubles down on American flags making her feel &apos;unsafe&apos;",
+          "link": "https://www.foxnews.com/media/the-view-co-host-sunny-hostin-doubles-down-american-flags-making-her-feel-unsafe",
+          "description": "\"The View\" co-host Sunny Hostin doubled down on her assertion that neighborhoods with American flags make her feel \"unsafe\" after they were \"co-opted by the far right.\"",
+          "pubDate": "2026-07-14T16:00:44.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-23-105",
+          "sourceId": "fox-news",
+          "title": "Kagan recalls Lindsey Graham&apos;s vote that helped seal her Supreme Court confirmation",
+          "link": "https://www.foxnews.com/politics/kagan-recalls-lindsey-graham-vote-helped-seal-supreme-court-confirmation",
+          "description": "Supreme Court Justice Elena Kagan recalled the exchange with Sen. Lindsey Graham during her 2010 confirmation hearing that many said sealed her Supreme Court nomination.",
+          "pubDate": "2026-07-14T15:52:08.000Z",
+          "category": "politics"
+        },
+        {
+          "id": "fox-news-24-77",
+          "sourceId": "fox-news",
+          "title": "Humanoid robots perform live surgery in world first",
+          "link": "https://www.foxnews.com/tech/humanoid-robots-perform-live-surgery-world-first",
+          "description": "Teleoperated humanoid robots completed two live gallbladder surgeries on pigs, marking a first for general-purpose machines in the operating room.",
+          "pubDate": "2026-07-14T15:42:25.000Z",
+          "category": "politics"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.818Z"
+    },
+    "msnbc": {
+      "sourceId": "msnbc",
+      "items": [],
+      "fetchedAt": "2026-07-14T17:53:08.097Z"
+    },
+    "breitbart": {
+      "sourceId": "breitbart",
+      "items": [
+        {
+          "id": "breitbart-0-160",
+          "sourceId": "breitbart",
+          "title": "&#039;The Odyssey&#039; Star Elliot Page: Gender Is a &#039;Quaint Myth,&#039; Male-Female Dynamic Is &#039;Absurd&#039; Because Animals Are &#039;Queer&#039;",
+          "link": "https://www.breitbart.com/entertainment/2026/07/14/the-odyssey-star-elliot-page-gender-is-a-quaint-myth-male-female-dynamic-is-absurd-because-animals-are-queer/",
+          "description": "Transgender actor and The Odyssey star Elliot Page came out against traditional gender roles, calling the male-female dynamic a \"quaint myth\" and insisting that if animals can engage in \"queer\" sex, why shouldn't humans.\nThe post &#8216;The Odyssey&#8217; Star Elliot Page: Gender Is a &#8216;Quaint ",
+          "pubDate": "2026-07-14T13:12:26.000Z",
+          "author": "Warner Todd Huston",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-1-117",
+          "sourceId": "breitbart",
+          "title": "Nolte: Debunking CNBC&#039;s Rigged Survey Smearing 10 Red States as &#8216;Worst to Live In&#8217;",
+          "link": "https://www.breitbart.com/the-media/2026/07/14/nolte-debunking-cnbcs-rigged-survey-smearing-10-red-states-worst-live/",
+          "description": "Far-left CNBC’s rigged ranking of “America’s 10 Worst States to Live In” is a fascinating look at the left’s warped priorities.\nThe post Nolte: Debunking CNBC&#8217;s Rigged Survey Smearing 10 Red States as ‘Worst to Live In’ appeared first on Breitbart.",
+          "pubDate": "2026-07-14T15:15:48.000Z",
+          "author": "John Nolte",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-2-141",
+          "sourceId": "breitbart",
+          "title": "VIDEO &#8212; Trump: D.C. Reflecting Pool Drained for Repairs After &#039;Country-Hating Sleazebags&#039; Vandalized It",
+          "link": "https://www.breitbart.com/crime/2026/07/14/video-trump-d-c-reflecting-pool-drained-for-repairs-after-country-hating-sleazebags-vandalized-it/",
+          "description": "The iconic reflecting pool near the Lincoln Memorial in Washington, DC, has been drained to fix damage done by vandals, President Donald Trump said Monday.\nThe post VIDEO — Trump: D.C. Reflecting Pool Drained for Repairs After &#8216;Country-Hating Sleazebags&#8217; Vandalized It appeared first on B",
+          "pubDate": "2026-07-14T15:23:01.000Z",
+          "author": "Amy Furr",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-3-122",
+          "sourceId": "breitbart",
+          "title": "Police Found Far-Left Literature in Home of Widdecombe Killing Suspect: Report",
+          "link": "https://www.breitbart.com/europe/2026/07/14/police-found-far-left-literature-in-home-of-widdecombe-killing-suspect-report/",
+          "description": "The suspect in the alleged murder of Brexit warrior and former government minister Ann Widdecombe reportedly had far-left literature in his home, as police have been forced to belatedly admit that there may have been a political motive in last week's killing.\nThe post Police Found Far-Left Literatur",
+          "pubDate": "2026-07-14T14:53:32.000Z",
+          "author": "Kurt Zindulka",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-4-141",
+          "sourceId": "breitbart",
+          "title": "Exclusive &#8212; Sen. Dave McCormick: &#039;I Pick Our Hand&#039; in Winning War Against China for Global Supremacy",
+          "link": "https://www.breitbart.com/politics/2026/07/14/exclusive-sen-dave-mccormick-i-pick-our-hand-in-winning-war-against-china-for-global-supremacy/",
+          "description": "America will beat China in the war for global supremacy, Sen. Dave McCormick (R-PA) said during an interview with Breitbart News at the Pennsylvania Defense and Innovation Summit on Tuesday.\nThe post Exclusive — Sen. Dave McCormick: &#8216;I Pick Our Hand&#8217; in Winning War Against China for Glob",
+          "pubDate": "2026-07-14T16:05:28.000Z",
+          "author": "Hannah Knudsen",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-5-110",
+          "sourceId": "breitbart",
+          "title": "Watch Live: Donald Trump Holds Freedom 250 Grand Prix Showcase",
+          "link": "https://www.breitbart.com/america250/2026/07/13/watch-live-donald-trump-holds-freedom-250-grand-prix-showcase/",
+          "description": "President Donald Trump hosts a Freedom 250 Grand Prix showcase at the White House on Monday, July 13.\nThe post Watch Live: Donald Trump Holds Freedom 250 Grand Prix Showcase appeared first on Breitbart.",
+          "pubDate": "2026-07-13T17:56:20.000Z",
+          "author": "Breitbart News",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-6-112",
+          "sourceId": "breitbart",
+          "title": "Watch Live: Sen. Dave McCormick Hosts Defense and Innovation Summit",
+          "link": "https://www.breitbart.com/politics/2026/07/14/watch-live-sen-dave-mccormick-hosts-defense-and-innovation-summit/",
+          "description": "Sen. Dave McCormick hosts the Pennsylvania Defense and Innovation Summit at the Army War College in Carlisle, PA, on Tuesday, July 14.\nThe post Watch Live: Sen. Dave McCormick Hosts Defense and Innovation Summit appeared first on Breitbart.",
+          "pubDate": "2026-07-14T12:43:28.000Z",
+          "author": "Breitbart News",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-7-108",
+          "sourceId": "breitbart",
+          "title": "Inflation Crushed: Consumer Prices Fall Sharply in June, Much Better Than Expected, Biggest Decline in Six Years",
+          "link": "https://www.breitbart.com/economy/2026/07/14/consumer-prices-fall-sharply-in-june-much-better-than-expected/",
+          "description": "The consumer price index fell for the first time since 2020.\nThe post Inflation Crushed: Consumer Prices Fall Sharply in June, Much Better Than Expected, Biggest Decline in Six Years appeared first on Breitbart.",
+          "pubDate": "2026-07-14T12:34:20.000Z",
+          "author": "John Carney",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-8-123",
+          "sourceId": "breitbart",
+          "title": "Paramount CEO David Ellison Backing Bill for Federal Film Tax Incentive",
+          "link": "https://www.breitbart.com/entertainment/2026/07/14/paramount-ceo-david-ellison-backing-bill-for-federal-film-tax-incentive/",
+          "description": "David Ellison, CEO of Paramount Skydance, has reportedly been backing a bill for a federal film tax incentive that has bipartisan support. \nThe post Paramount CEO David Ellison Backing Bill for Federal Film Tax Incentive appeared first on Breitbart.",
+          "pubDate": "2026-07-14T14:03:05.000Z",
+          "author": "Paul Bois",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-9-137",
+          "sourceId": "breitbart",
+          "title": "Experts: AI Servers Will Consume More Power than All Conventional Data Centers Combined by 2027",
+          "link": "https://www.breitbart.com/tech/2026/07/14/experts-ai-servers-will-consume-more-power-than-all-conventional-data-centers-combined-by-2027/",
+          "description": "Global data center electricity consumption is projected to surge 26 percent this year, reaching 565 terawatt-hours as AI workloads push power demand to unprecedented levels, according to new forecasts from research firm Gartner.\nThe post Experts: AI Servers Will Consume More Power than All Conventio",
+          "pubDate": "2026-07-14T13:39:48.000Z",
+          "author": "Lucas Nolan",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-10-128",
+          "sourceId": "breitbart",
+          "title": "South Carolina Gov. Appoints Darline Graham Nordone to Finish Lindsey Graham&#039;s Term",
+          "link": "https://www.breitbart.com/politics/2026/07/13/south-carolina-gov-appoints-darline-graham-nordone-to-finish-lindsey-grahams-term/",
+          "description": "Gov. Henry McMaster (R-SC) picked Sen. Lindsey Graham's (R-SC) sister, Darline Graham Nordone, to serve as interim senator, and complete the remainder of her brother's term.\nThe post South Carolina Gov. Appoints Darline Graham Nordone to Finish Lindsey Graham&#8217;s Term appeared first on Breitbart",
+          "pubDate": "2026-07-13T22:11:11.000Z",
+          "author": "Elizabeth Weibel",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-11-83",
+          "sourceId": "breitbart",
+          "title": "Data: Most DSA Members Support Communism",
+          "link": "https://www.breitbart.com/clips/2026/07/13/data-most-dsa-members-support-communism/",
+          "description": "Saturday on &#8220;The Alex Marlow Show,&#8221; former Democratic Chief Counsel for the House Judiciary Committee, Julian Epstein talked about the DSA. Epstein said, &#8220;By the way, the Free Press has done a great piece this week showing that 51% of the\nThe post Data: Most DSA Members Support Com",
+          "pubDate": "2026-07-14T05:37:25.000Z",
+          "author": "Breitbart TV",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-12-124",
+          "sourceId": "breitbart",
+          "title": "Democrat Strategist: Party Only Offering Grievance, Nihilism, Power for Power&#039;s Sake",
+          "link": "https://www.breitbart.com/clips/2026/07/13/democrat-strategist-party-only-offering-grievance-nihilism-power-for-powers-sake/",
+          "description": "Saturday on &#8220;The Alex Marlow Show,&#8221; former Democratic Chief Counsel for the House Judiciary Committee, Julian Epstein talked about Democrats. Epstein said, &#8220;The Democrats are no longer about building. And what that leads to inexorably is power for power&#8217;s sake.&#8221;\nThe pos",
+          "pubDate": "2026-07-14T05:37:29.000Z",
+          "author": "Breitbart TV",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-13-132",
+          "sourceId": "breitbart",
+          "title": "Centrist Strategist Warns Democrats: History Tells Us Extremists Always Eat the Moderates",
+          "link": "https://www.breitbart.com/clips/2026/07/13/centrist-strategist-warns-democrats-history-tells-us-extremists-always-eat-the-moderates/",
+          "description": "Saturday on &#8220;The Alex Marlow Show,&#8221; former Democratic Chief Counsel for the House Judiciary Committee, Julian Epstein talked about Democrats. Epstein said, &#8220;The extremists always eat the moderates. if the moderates don&#8217;t do anything about it.&#8221; The Alex Marlow Show, host",
+          "pubDate": "2026-07-14T05:37:27.000Z",
+          "author": "Breitbart TV",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-14-108",
+          "sourceId": "breitbart",
+          "title": "Nolte: Disney Will Lose Fortune on Live-Action &#8216;Moana&#8217; Flop",
+          "link": "https://www.breitbart.com/entertainment/2026/07/13/nolte-disney-will-lose-fortune-on-live-action-moana-flop/",
+          "description": "Per reports, the Disney Grooming Syndicate is set to lose over $100 million on its latest flop, the live-action remake of Moana, which hit theaters Friday.\nThe post Nolte: Disney Will Lose Fortune on Live-Action ‘Moana’ Flop appeared first on Breitbart.",
+          "pubDate": "2026-07-13T17:21:41.000Z",
+          "author": "John Nolte",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-15-144",
+          "sourceId": "breitbart",
+          "title": "Paramount Vows to &#039;Vigorously&#039; Fight California&#039;s Lawsuit to Block Warner Bros. Discovery Merger",
+          "link": "https://www.breitbart.com/entertainment/2026/07/14/paramount-vows-to-vigorously-fight-californias-lawsuit-to-block-warner-bros-discovery-merger/",
+          "description": "NEW YORK (AP) — Twelve states sued to block Paramount’s takeover of Warner Bros. Discovery on Monday, arguing that the $81 billion merger would “extinguish competition” in Hollywood and lead to fewer choices for consumers across the U.S.\nThe post Paramount Vows to &#8216;Vigorously&#8217; Fight Cali",
+          "pubDate": "2026-07-14T14:29:50.000Z",
+          "author": "Breitbart News",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-16-133",
+          "sourceId": "breitbart",
+          "title": "Incoming PM Burnham Plotting 38 Billion in Tax Hikes on Struggling British Public: Report",
+          "link": "https://www.breitbart.com/europe/2026/07/14/incoming-pm-burnham-plotting-38-billion-in-tax-hikes-on-struggling-british-public-report/",
+          "description": "Incoming Prime Minister Andy Burnham is set to add as much as £38 billion to Britain's already historically high tax bill to fund a progressive handout agenda, analysis from Nigel Farage's Reform UK party has warned.\nThe post Incoming PM Burnham Plotting £38 Billion in Tax Hikes on Struggling Britis",
+          "pubDate": "2026-07-14T08:55:29.000Z",
+          "author": "Kurt Zindulka",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-17-119",
+          "sourceId": "breitbart",
+          "title": "Ukraine Gets License to Produce French Missiles, Orders Rafale Fighter Jets",
+          "link": "https://www.breitbart.com/europe/2026/07/14/ukraine-gets-license-to-produce-french-missiles-orders-rafale-fighter-jets/",
+          "description": "Ukraine will produce French-made cruise missiles, precision guided bombs, and air defense interceptor missiles through a license granted by Paris to Kyiv, President Emmanuel Macron announced on Monday.\nThe post Ukraine Gets License to Produce French Missiles, Orders Rafale Fighter Jets appeared firs",
+          "pubDate": "2026-07-14T11:02:27.000Z",
+          "author": "Christian K. Caruzo",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-18-130",
+          "sourceId": "breitbart",
+          "title": "Spain: Migrants with Criminal Records Not Barred from Residence Permits, Top Court Says",
+          "link": "https://www.breitbart.com/europe/2026/07/14/spain-migrants-with-criminal-records-not-barred-from-residence-permits-top-court-says/",
+          "description": "Migrants with criminal records may still be eligible for residence permits in Spain if they have a Spanish national relative, the nation's Supreme Court determined on Monday.\nThe post Spain: Migrants with Criminal Records Not Barred from Residence Permits, Top Court Says appeared first on Breitbart.",
+          "pubDate": "2026-07-14T09:10:43.000Z",
+          "author": "Christian K. Caruzo",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-19-158",
+          "sourceId": "breitbart",
+          "title": "Sen. Raphael Warnock Claims God Sent Thunderstorm on July 4 to Force People into African American History Museum",
+          "link": "https://www.breitbart.com/politics/2026/07/13/sen-raphael-warnock-claims-god-sent-thunderstorm-on-july-4-to-force-people-into-african-american-history-museum/",
+          "description": "Far-left Sen. Raphael Warnock (D-GA) claimed in a sermon on Sunday that God sent a thunderstorm to the National Mall in Washington, DC on July 4 to force people who were \"telling themselves a bunch of lies\" about the greatness of the United States into the African-American History Museum.\nThe post S",
+          "pubDate": "2026-07-13T21:22:06.000Z",
+          "author": "Katherine Hamilton",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-20-109",
+          "sourceId": "breitbart",
+          "title": "GOP Lawmakers Rebuke Elissa Slotkin Saying SAVE Act Would Hurt Women",
+          "link": "https://www.breitbart.com/politics/2026/07/13/gop-lawmakers-rebuke-elissa-slotkin-saying-save-act-hurt-women/",
+          "description": "GOP lawmakers, including Sen. Rand Paul (KY), have rebuked Sen. Elissa Slotkin (D-MI) for saying that the SAVE Act would hurt women voters.\nThe post GOP Lawmakers Rebuke Elissa Slotkin Saying SAVE Act Would Hurt Women appeared first on Breitbart.",
+          "pubDate": "2026-07-14T01:26:41.000Z",
+          "author": "Paul Bois",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-21-154",
+          "sourceId": "breitbart",
+          "title": "Francesca Hong, Socialist Candidate for Wisconsin Governor, Says It Was &#039;Cowardly&#039; for Hospitals to Stop Transing Kids",
+          "link": "https://www.breitbart.com/politics/2026/07/13/francesca-hong-socialist-candidate-for-wi-governor-says-it-was-cowardly-for-hospitals-to-stop-transing-kids/",
+          "description": "Wisconsin Democratic Socialist gubernatorial candidate and State Rep. Francesca Hong claimed it is \"cowardly\" for hospitals to stop providing sex change drugs and surgeries to minors.\nThe post Francesca Hong, Socialist Candidate for Wisconsin Governor, Says It Was &#8216;Cowardly&#8217; for Hospital",
+          "pubDate": "2026-07-13T22:32:17.000Z",
+          "author": "Katherine Hamilton",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-22-129",
+          "sourceId": "breitbart",
+          "title": "Exclusive &#8211; Rep. Paul Gosar Requests HHS and NIH Close Down Fauci&#8217;s Rocky Mountain Lab",
+          "link": "https://www.breitbart.com/politics/2026/07/13/exclusive-rep-paul-gosar-requests-hhs-and-nih-close-down-faucis-rocky-mountain-lab/",
+          "description": "Republican Rep. Paul Gosar (R-AZ) is asking Health and Human Services Secretary Robert F. Kennedy Jr. and National Institutes of Health (NIH) Director Jayanta Bhattacharya to shut down former National Institute of Allergy and Infectious Diseases (NIAID) Chief Anthony Fauci's Rocky Mountain Lab in Mo",
+          "pubDate": "2026-07-13T21:38:14.000Z",
+          "author": "Hannah Knudsen",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-23-112",
+          "sourceId": "breitbart",
+          "title": "Howard Dean: SCOTUS Making &#039;Stuff Up&#039; to Let Trump Do Whatever He Wants",
+          "link": "https://www.breitbart.com/clips/2026/07/13/howard-dean-scotus-making-stuff-up-to-let-trump-do-whatever-he-wants/",
+          "description": "Monday on MS NOW's \"The Beat,\" former Democratic National Committee chairman Howard Dean said the Supreme Court was \"just making this stuff up\" to let President Donald Trump do whatever he wants.\nThe post Howard Dean: SCOTUS Making &#8216;Stuff Up&#8217; to Let Trump Do Whatever He Wants appeared fi",
+          "pubDate": "2026-07-14T00:16:21.000Z",
+          "author": "Pam Key",
+          "category": "politics"
+        },
+        {
+          "id": "breitbart-24-103",
+          "sourceId": "breitbart",
+          "title": "49ers&#039; Brandon Aiyuk Appears to Kick Dog in Instagram Video",
+          "link": "https://www.breitbart.com/sports/2026/07/13/49ers-brandon-aiyuk-appears-to-kick-dog-in-instagram-video/",
+          "description": "Brandon Aiyuk, wide receiver for the San Francisco 49ers, appeared to kick his dog in a video released to his Instagram Story on Monday. \nThe post 49ers&#8217; Brandon Aiyuk Appears to Kick Dog in Instagram Video appeared first on Breitbart.",
+          "pubDate": "2026-07-14T05:18:37.000Z",
+          "author": "Paul Bois",
+          "category": "politics"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.869Z"
+    },
+    "bbc-world": {
+      "sourceId": "bbc-world",
+      "items": [
+        {
+          "id": "bbc-world-0-78",
+          "sourceId": "bbc-world",
+          "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+          "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+          "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+          "pubDate": "2026-07-14T16:54:46.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-1-78",
+          "sourceId": "bbc-world",
+          "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+          "link": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+          "description": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
+          "pubDate": "2026-07-14T05:00:03.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-2-78",
+          "sourceId": "bbc-world",
+          "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+          "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+          "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+          "pubDate": "2026-07-14T17:13:27.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-3-78",
+          "sourceId": "bbc-world",
+          "title": "Diamond giant De Beers halts work at flagship South African mine as demand plummets",
+          "link": "https://www.bbc.co.uk/news/articles/cjrgr7lr1ejo?at_medium=RSS&at_campaign=rss",
+          "description": "Production will stop for two years at the mine which employs more than 4,000 people.",
+          "pubDate": "2026-07-14T13:22:09.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-4-78",
+          "sourceId": "bbc-world",
+          "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
+          "link": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
+          "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+          "pubDate": "2026-07-14T13:49:42.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-5-78",
+          "sourceId": "bbc-world",
+          "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+          "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+          "description": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
+          "pubDate": "2026-07-14T17:07:42.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-6-78",
+          "sourceId": "bbc-world",
+          "title": "Tyrannosaurus rex most expensive dinosaur ever sold",
+          "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss",
+          "description": "The dinosaur skeleton, which roamed the planet 67 million years ago, was sold by Sotheby's in New York.",
+          "pubDate": "2026-07-14T15:37:52.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-7-78",
+          "sourceId": "bbc-world",
+          "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
+          "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+          "description": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
+          "pubDate": "2026-07-14T03:47:41.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-8-78",
+          "sourceId": "bbc-world",
+          "title": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
+          "link": "https://www.bbc.co.uk/news/articles/cx232p85lp5o?at_medium=RSS&at_campaign=rss",
+          "description": "The ministers claimed the piece, which cited their luxury bungalow deals, had tarnished their reputation.",
+          "pubDate": "2026-07-14T11:21:48.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-9-78",
+          "sourceId": "bbc-world",
+          "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+          "link": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+          "description": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
+          "pubDate": "2026-07-14T02:26:45.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-10-78",
+          "sourceId": "bbc-world",
+          "title": "Hungary parliament votes to remove president from office",
+          "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss",
+          "description": "Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.",
+          "pubDate": "2026-07-13T20:39:14.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-11-78",
+          "sourceId": "bbc-world",
+          "title": "US judge voids Donald Trump's $1.8bn settlement with IRS that gave him immunity from tax audits",
+          "link": "https://www.bbc.co.uk/news/articles/cn8q0e8d4ego?at_medium=RSS&at_campaign=rss",
+          "description": "The judge said the suit was brought for 'improper purposes' and referred a Trump attorney for possible disciplinary action.",
+          "pubDate": "2026-07-13T18:52:46.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-12-78",
+          "sourceId": "bbc-world",
+          "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
+          "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
+          "description": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+          "pubDate": "2026-07-14T10:02:43.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-13-78",
+          "sourceId": "bbc-world",
+          "title": "Colombian national killed by ICE agent during operation in Maine",
+          "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss",
+          "description": "It comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent.",
+          "pubDate": "2026-07-14T17:33:56.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-14-78",
+          "sourceId": "bbc-world",
+          "title": "Identity of Sydney daycare worker facing 329 child abuse offences revealed",
+          "link": "https://www.bbc.co.uk/news/articles/c5yzy0lpello?at_medium=RSS&at_campaign=rss",
+          "description": "Hamish Tait is accused of abusing 136 children at five childcare facilities over a 16-year period.",
+          "pubDate": "2026-07-14T01:43:57.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-15-78",
+          "sourceId": "bbc-world",
+          "title": "EU bans gold imports from Sudan to curb money financing the war",
+          "link": "https://www.bbc.co.uk/news/articles/ce3e3nqwr5do?at_medium=RSS&at_campaign=rss",
+          "description": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
+          "pubDate": "2026-07-14T08:32:49.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-16-78",
+          "sourceId": "bbc-world",
+          "title": "Bison rams grandfather in Yellowstone Park, knocking him metres into the air",
+          "link": "https://www.bbc.co.uk/news/articles/c2dy9krpydlo?at_medium=RSS&at_campaign=rss",
+          "description": "The man and his grandson appeared a safe distance away from the bison before it quickly chased them down.",
+          "pubDate": "2026-07-13T17:21:21.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-17-78",
+          "sourceId": "bbc-world",
+          "title": "Health fears as frail Indian activist on hunger strike loses 8.2kg",
+          "link": "https://www.bbc.co.uk/news/articles/cvgm2rz5d7lo?at_medium=RSS&at_campaign=rss",
+          "description": "The environmental activist has been on a hunger strike for 16 days and is getting visibly weaker.",
+          "pubDate": "2026-07-13T22:03:16.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-18-78",
+          "sourceId": "bbc-world",
+          "title": "US burrito giant Chipotle opening first outlet in Mexico",
+          "link": "https://www.bbc.co.uk/news/articles/c0ryr89gp09o?at_medium=RSS&at_campaign=rss",
+          "description": "Other US fast-food brands have struggled to succeed in the countries their dishes originated in.",
+          "pubDate": "2026-07-14T02:42:51.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-19-78",
+          "sourceId": "bbc-world",
+          "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+          "link": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+          "description": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+          "pubDate": "2026-07-14T01:29:58.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-20-78",
+          "sourceId": "bbc-world",
+          "title": "Lindsey Graham's sister chosen as replacement after senator's death",
+          "link": "https://www.bbc.co.uk/news/articles/c05y3rlvp20o?at_medium=RSS&at_campaign=rss",
+          "description": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
+          "pubDate": "2026-07-13T21:37:02.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-21-78",
+          "sourceId": "bbc-world",
+          "title": "Volkswagen planning to cut up to 100,000 jobs globally",
+          "link": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
+          "description": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+          "pubDate": "2026-07-13T16:19:15.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-22-78",
+          "sourceId": "bbc-world",
+          "title": "UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates",
+          "link": "https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&at_campaign=rss",
+          "description": "The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually \"in the long run\".",
+          "pubDate": "2026-07-13T16:05:13.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-23-78",
+          "sourceId": "bbc-world",
+          "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+          "link": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+          "description": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+          "pubDate": "2026-07-13T11:36:18.000Z",
+          "category": "world"
+        },
+        {
+          "id": "bbc-world-24-78",
+          "sourceId": "bbc-world",
+          "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
+          "link": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
+          "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+          "pubDate": "2026-07-13T17:31:54.000Z",
+          "category": "world"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.815Z"
+    },
+    "reuters": {
+      "sourceId": "reuters",
+      "items": [],
+      "fetchedAt": "2026-07-14T17:53:07.769Z",
+      "error": "fetch failed"
+    },
+    "techcrunch": {
+      "sourceId": "techcrunch",
+      "items": [
+        {
+          "id": "techcrunch-0-111",
+          "sourceId": "techcrunch",
+          "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+          "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+          "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+          "pubDate": "2026-07-14T17:45:55.000Z",
+          "author": "Russell Brandom",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-1-86",
+          "sourceId": "techcrunch",
+          "title": "DeepSeek reportedly in talks to raise $1.5B, then IPO",
+          "link": "https://techcrunch.com/2026/07/14/deepseek-reportedly-in-talks-to-raise-1-5b-then-ipo/",
+          "description": "DeepSeek, the Chinese large language model developer, is said to be preparing for a 2027 IPO debut as it also looks to raise around $1.5 billion in new funds at a $71 billion valuation.",
+          "pubDate": "2026-07-14T16:45:23.000Z",
+          "author": "Dominic-Madori Davis",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-2-109",
+          "sourceId": "techcrunch",
+          "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+          "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+          "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools.",
+          "pubDate": "2026-07-14T16:22:15.000Z",
+          "author": "Sarah Perez",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-3-100",
+          "sourceId": "techcrunch",
+          "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+          "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+          "description": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history.",
+          "pubDate": "2026-07-14T16:00:00.000Z",
+          "author": "Aisha Malik",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-4-92",
+          "sourceId": "techcrunch",
+          "title": "New York State halts construction of all new data centers",
+          "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+          "description": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
+          "pubDate": "2026-07-14T15:17:59.000Z",
+          "author": "Tim De Chant",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-5-132",
+          "sourceId": "techcrunch",
+          "title": "Iran abused mobile networks&#8217; vulnerabilities to locate US military in the Middle East, report says",
+          "link": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
+          "description": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
+          "pubDate": "2026-07-14T15:14:40.000Z",
+          "author": "Lorenzo Franceschi-Bicchierai",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-6-52",
+          "sourceId": "techcrunch",
+          "title": "I&#8217;m de-influencing you from buying the RingConn 3 (even though it&#8217;s pretty)",
+          "link": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
+          "description": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
+          "pubDate": "2026-07-14T14:45:11.000Z",
+          "author": "Amanda Silberling",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-7-78",
+          "sourceId": "techcrunch",
+          "title": "Reflection inks $1B compute deal with Nebius",
+          "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+          "description": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
+          "pubDate": "2026-07-14T14:37:48.000Z",
+          "author": "Rebecca Bellan",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-8-109",
+          "sourceId": "techcrunch",
+          "title": "The real AI race may no longer be at the frontier",
+          "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+          "description": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
+          "pubDate": "2026-07-14T14:24:53.000Z",
+          "author": "Rebecca Bellan",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-9-102",
+          "sourceId": "techcrunch",
+          "title": "Telegram&#8217;s shortlink domain is back online after day-long suspension",
+          "link": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
+          "description": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
+          "pubDate": "2026-07-14T14:10:13.000Z",
+          "author": "Zack Whittaker",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-10-98",
+          "sourceId": "techcrunch",
+          "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+          "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+          "description": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more.",
+          "pubDate": "2026-07-14T14:06:47.000Z",
+          "author": "Sarah Perez",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-11-101",
+          "sourceId": "techcrunch",
+          "title": "Superhuman&#8217;s new auto-draft feature almost makes me like AI replies",
+          "link": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+          "description": "Superhuman’s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing.",
+          "pubDate": "2026-07-14T14:00:00.000Z",
+          "author": "Ivan Mehta",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-12-123",
+          "sourceId": "techcrunch",
+          "title": "David Beckham&#8217;s health drink startup IM8 takes $1B from General Catalyst&#8217;s unusual CVF fund",
+          "link": "https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/",
+          "description": "General Catalyst’s Customer Value Fund doesn't make equity investments. It's providing $1 billion for IM8, known for its longevity vitamin drink.",
+          "pubDate": "2026-07-14T12:30:00.000Z",
+          "author": "Julie Bort",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-13-93",
+          "sourceId": "techcrunch",
+          "title": "Pinwheel launches a retro-inspired landline phone for kids",
+          "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
+          "description": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
+          "pubDate": "2026-07-14T09:00:00.000Z",
+          "author": "Lauren Forristal",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-14-118",
+          "sourceId": "techcrunch",
+          "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+          "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+          "description": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more.",
+          "pubDate": "2026-07-14T02:46:42.000Z",
+          "author": "Connie Loizos",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-15-136",
+          "sourceId": "techcrunch",
+          "title": "Uber&#8217;s product chief on hotels, robotaxis, and why the company doesn&#8217;t want to be &#8216;everything for everyone&#8217;",
+          "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+          "description": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+          "pubDate": "2026-07-14T00:45:00.000Z",
+          "author": "Connie Loizos",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-16-104",
+          "sourceId": "techcrunch",
+          "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+          "description": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+          "pubDate": "2026-07-14T00:00:00.000Z",
+          "author": "Ivan Mehta",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-17-106",
+          "sourceId": "techcrunch",
+          "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+          "link": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+          "description": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+          "pubDate": "2026-07-13T23:58:27.000Z",
+          "author": "Lucas Ropek",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-18-110",
+          "sourceId": "techcrunch",
+          "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+          "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+          "description": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+          "pubDate": "2026-07-13T23:31:18.000Z",
+          "author": "Ivan Mehta, Marina Temkin",
+          "category": "tech"
+        },
+        {
+          "id": "techcrunch-19-100",
+          "sourceId": "techcrunch",
+          "title": "Satya Nadella has issued a shocking warning to companies using AI",
+          "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+          "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+          "pubDate": "2026-07-13T20:59:00.000Z",
+          "author": "Julie Bort",
+          "category": "tech"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:08.563Z"
+    },
+    "the-verge": {
+      "sourceId": "the-verge",
+      "items": [
+        {
+          "id": "the-verge-0-94",
+          "sourceId": "the-verge",
+          "title": "Philips Hue&#8217;s budget-friendly Essential starter kit has hit a new low price",
+          "link": "https://www.theverge.com/gadgets/965476/philips-hue-essential-starter-kit-hue-bridge-deal-sale",
+          "description": "Although most of Prime Day&#8217;s unusually good Philips Hue deals have ended, a few remain, and some, including the black Philips Hue Twilight Sleep and Wake-Up Light, are even cheaper. None, however, have fallen to a new all-time low price like Philips Hue&#8217;s Essential starter kit. Right now",
+          "pubDate": "2026-07-14T17:36:05.000Z",
+          "author": "Sheena Vasani",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-1-63",
+          "sourceId": "the-verge",
+          "title": "Plex is down",
+          "link": "https://www.theverge.com/tech/965518/plex-tv-down-outage-issues",
+          "description": "Plex services have been experiencing some major issues today, with multiple users reporting problems on Plex's forums and on Reddit. Many people use Plex as a way to stream shows and movies they host locally, but users are upset because today's problems are reportedly affecting their ability to do t",
+          "pubDate": "2026-07-14T17:23:25.000Z",
+          "author": "Jay Peters",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-2-91",
+          "sourceId": "the-verge",
+          "title": "Nintendo’s Switch 2 bundle that includes a game is $50 off",
+          "link": "https://www.theverge.com/gadgets/965490/nintendo-switch-2-choose-your-game-bundle-deal-sale",
+          "description": "Discounts on the Nintendo Switch 2 are rare, but they do happen on occasion. There’s one happening now, actually, on the company’s $499.99 console bundle that includes a digital game (Mario Kart World, Donkey Kong Bananza, or Pokémon Pokopia). Usually, the bundle saves you $20 or $30, depending on t",
+          "pubDate": "2026-07-14T17:20:34.000Z",
+          "author": "Cameron Faulkner",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-3-77",
+          "sourceId": "the-verge",
+          "title": "Meta accused of using biased AI targeting for mass layoffs",
+          "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+          "description": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employees allege Meta determined which workers to dismiss based on performance data collected by a \"constel",
+          "pubDate": "2026-07-14T17:18:11.000Z",
+          "author": "Emma Roth",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-4-86",
+          "sourceId": "the-verge",
+          "title": "Boston Dynamics tries using &#8216;robot dogs&#8217; for deliveries",
+          "link": "https://www.theverge.com/tech/965378/boston-dynamics-spot-robot-dog-delivery-assistant",
+          "description": "Boston Dynamics' robotic quadruped Spot has already found work doing routine factory inspections and patrolling the ruins of Pompeii, but what about deliveries? The company is testing a new conveyor belt accessory that allows Spot to carry packages from a vehicle and autonomously unload them on a cu",
+          "pubDate": "2026-07-14T16:52:47.000Z",
+          "author": "Andrew Liszewski",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-5-92",
+          "sourceId": "the-verge",
+          "title": "Sony delays its new PS5 fight stick",
+          "link": "https://www.theverge.com/games/965457/sony-playstation-flexstrike-wireless-fight-stick-delay",
+          "description": "Sony is delaying the launch of its FlexStrike fight stick controller for PS5 and PC, which had been set to launch on August 6th, to an unspecified date in the future. The company blames the delayed launch on \"unexpected production delays.\" The original planned launch of the FlexStrike would have lin",
+          "pubDate": "2026-07-14T16:47:49.000Z",
+          "author": "Jay Peters",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-6-104",
+          "sourceId": "the-verge",
+          "title": "Nomad&#8217;s high-end phone accessories are up to 30 percent off",
+          "link": "https://www.theverge.com/gadgets/965108/nomad-magsafe-charger-tracker-samsung-galaxy-buds-3-fe-deal-sale",
+          "description": "Premium phone accessory maker Nomad is celebrating its anniversary with discounts on its entire catalog of products. The sale will knocks off up to thirty percent off usual prices and will run through July 20th. We found some particularly good deals from the sale we’d like to draw your attention to.",
+          "pubDate": "2026-07-14T16:46:27.000Z",
+          "author": "Brad Bourque",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-7-73",
+          "sourceId": "the-verge",
+          "title": "The OLED Xbox Ally X20 is so good, Asus will sell it solo",
+          "link": "https://www.theverge.com/games/965123/asus-rog-xbox-ally-x20-oled-preview",
+          "description": "When I first told you about the \"OLED Xbox Ally X of my dreams,\" I had to curb my enthusiasm a bit. That's partly because I hadn't yet tried the handheld myself, and partly because Asus was only planning to sell it bundled with a pair of expensive AR glasses! I'm happy to say both [&#8230;]",
+          "pubDate": "2026-07-14T16:09:09.000Z",
+          "author": "Sean Hollister",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-8-91",
+          "sourceId": "the-verge",
+          "title": "The Google Images homepage will recommend photos even before you search",
+          "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+          "description": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you a bunch of images that it thinks you might like before you even start searching. The company says t",
+          "pubDate": "2026-07-14T16:00:00.000Z",
+          "author": "Jay Peters",
+          "category": "tech"
+        },
+        {
+          "id": "the-verge-9-100",
+          "sourceId": "the-verge",
+          "title": "Spotify is now an AI chatbot, too",
+          "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+          "description": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature appears across the Home and Now Playing view on Spotify's mobile app. You can interact with the cha",
+          "pubDate": "2026-07-14T15:47:36.000Z",
+          "author": "Jess Weatherbed",
+          "category": "tech"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.814Z"
+    },
+    "espn": {
+      "sourceId": "espn",
+      "items": [
+        {
+          "id": "espn-0-117",
+          "sourceId": "espn",
+          "title": "'He's got the stuff and backs it up': MLB All-Star...",
+          "link": "https://www.espn.com/mlb/story/_/id/49350262/mlb-2026-all-star-game-players-watch-ohtani-witt-trout-schwarber-miz-pca",
+          "description": "From Miz's heat to Schwarbombs to everything Ohtani brings, these players are why baseball is having a moment.",
+          "pubDate": "2026-07-14T17:33:42.000Z",
+          "author": "ESPN",
+          "category": "sports"
+        },
+        {
+          "id": "espn-1-111",
+          "sourceId": "espn",
+          "title": "MLB All-Star Game: Predictions, live updates and t...",
+          "link": "https://www.espn.com/mlb/story/_/id/49355726/mlb-all-star-game-2026-predictions-live-updates-analysis-takeaways",
+          "description": "Baseball's best are in Philly. Here are the matchups we want to see and what our experts think will happen.",
+          "pubDate": "2026-07-14T17:33:42.000Z",
+          "author": "ESPN",
+          "category": "sports"
+        },
+        {
+          "id": "espn-2-102",
+          "sourceId": "espn",
+          "title": "MLBPA rips salary cap ad campaign as 'perverse'",
+          "link": "https://www.espn.com/mlb/story/_/id/49358929/mlbpa-head-criticizes-mlb-salary-cap-ad-campaign-perverse",
+          "description": "MLB commissioner Rob Manfred and MLBPA head Bruce Meyer share differing views on the league's \"Level the Field\" ad campaign expressing its desire for a salary cap.",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "author": "Jesse Rogers",
+          "category": "sports"
+        },
+        {
+          "id": "espn-3-91",
+          "sourceId": "espn",
+          "title": "Embattled Michigan AD Manuel not ready to go",
+          "link": "https://www.espn.com/college-sports/story/_/id/49358635/michigan-ad-warde-manuel-want-leave",
+          "description": "Michigan athletic director Warde Manuel is defending his resume; and says he does not want to leave the school.",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "author": "David Hale",
+          "category": "sports"
+        },
+        {
+          "id": "espn-4-91",
+          "sourceId": "espn",
+          "title": "Herro wants to 'move on' from Bam altercation",
+          "link": "https://www.espn.com/nba/story/_/id/49357704/tyler-herro-wants-move-bam-adebayo-altercation",
+          "description": "Bucks guard Tyler Herro said he wants to \"move on\" from his physical altercation with former teammate Bam Adebayo last week in Las Vegas and is \"focused on the next chapter in Milwaukee.\"",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "author": "Ramona Shelburne",
+          "category": "sports"
+        },
+        {
+          "id": "espn-5-102",
+          "sourceId": "espn",
+          "title": "Golfers eye 'unprecedented' conditions at Open",
+          "link": "https://www.espn.com/golf/story/_/id/49359259/golfers-eye-unprecedented-open-conditions-royal-birkdale",
+          "description": "Golfers raved about the firm, fast conditions at Royal Birkdale on Tuesday, two days before the start of the Open Championship.",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "author": "Mark Schlabach",
+          "category": "sports"
+        },
+        {
+          "id": "espn-6-103",
+          "sourceId": "espn",
+          "title": "Walker hopes Derby win stirs Black kids to play",
+          "link": "https://www.espn.com/mlb/story/_/id/49358712/jordan-walker-hopes-home-run-derby-win-inspires-black-kids",
+          "description": "Cardinals outfielder Jordan Walker wants to be a role model, and he hopes his victory in the Home Run Derby inspires more Black kids to play baseball.",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "category": "sports"
+        },
+        {
+          "id": "espn-7-90",
+          "sourceId": "espn",
+          "title": "Scheffler: Coming in 2nd worse than missing cut",
+          "link": "https://www.espn.com/golf/story/_/id/49359389/missing-cut-no-fun-coming-second-hurts-worse",
+          "description": "Scottie Scheffler is preparing for the 154th Open Championship preceded by a rare weekend off. Scheffler missed the cut at last week's Scottish Open, ending his streak of 78 straight PGA Tour starts in which he made the cut.",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "author": "Mark Schlabach",
+          "category": "sports"
+        },
+        {
+          "id": "espn-8-119",
+          "sourceId": "espn",
+          "title": "Balogun: Red card 'controversy' affected USMNT",
+          "link": "https://www.espn.com/soccer/story/_/id/49358886/united-states-folarin-balogun-world-cup-ban-overturn-affected-teammates",
+          "description": "United States striker Folarin Balogun revealed that he predicted President Donald Trump's involvement in overturning his World Cup suspension would \"cause a lot of controversy.\"",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "author": "ESPN News Services",
+          "category": "sports"
+        },
+        {
+          "id": "espn-9-103",
+          "sourceId": "espn",
+          "title": "Bueckers bemoans no Black women HC in WNBA",
+          "link": "https://www.espn.com/wnba/story/_/id/49358494/paige-bueckers-bemoans-wnba-lack-black-women-head-coaches",
+          "description": "Wings star Paige Bueckers called out the lack of Black women head coaches in the WNBA, saying Black women deserve \"the same equal opportunity\" to coach in the league.",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "category": "sports"
+        },
+        {
+          "id": "espn-10-101",
+          "sourceId": "espn",
+          "title": "📈 Execs, coaches rank NFL's best linebackers",
+          "link": "https://www.espn.com/nfl/story/_/id/49295327/ranking-nfl-top-10-linebackers-2026-execs-coaches-scouts",
+          "description": "Evaluators around the league ranked their top 10 off-ball linebackers. Is Fred Warner still No. 1? Which young standout is high on the list?",
+          "pubDate": "2026-07-14T18:49:35.000Z",
+          "author": "Jeremy Fowler",
+          "category": "sports"
+        },
+        {
+          "id": "espn-11-113",
+          "sourceId": "espn",
+          "title": "Gutting youth soccer in America is not enough to m...",
+          "link": "https://www.espn.com/soccer/story/_/id/49353204/the-usmnt-struggles-world-cup-fixed-overhauling-youth-development",
+          "description": "Everyone thinks they can fix the USMNT. But maybe the U.S. is actually making progress and luck just hasn't been on its side -- what then?",
+          "pubDate": "2026-07-14T16:46:32.000Z",
+          "author": "Ryan O'Hanlon",
+          "category": "sports"
+        },
+        {
+          "id": "espn-12-115",
+          "sourceId": "espn",
+          "title": "Projecting the USMNT 2030 World Cup roster",
+          "link": "https://www.espn.com/soccer/story/_/id/49344843/projecting-usmnt-2030-world-cup-roster-30-players-rep-us-four-years",
+          "description": "The tears are barely dry from the USMNT's 2026 World Cup exit, but the page immediately turns to the 2030 World Cup. Here's who could represent the U.S. in four years.",
+          "pubDate": "2026-07-14T16:46:32.000Z",
+          "author": "Jeff Carlisle",
+          "category": "sports"
+        },
+        {
+          "id": "espn-13-132",
+          "sourceId": "espn",
+          "title": "France counterattack, Argentina set pieces: How Wo...",
+          "link": "https://www.espn.com/soccer/story/_/id/49349440/world-cup-semifinalists-score-goals-france-olise-spain-yamal-england-argentina-messi",
+          "description": "We're down to the final four of the World Cup, with the four top-ranked teams set to square off. Yet all of them use very different attacking styles in order to score goals; let's break it down.",
+          "pubDate": "2026-07-14T17:04:52.000Z",
+          "author": "Bill Connelly",
+          "category": "sports"
+        },
+        {
+          "id": "espn-14-98",
+          "sourceId": "espn",
+          "title": "Inside Spain's World Cup camp: Can good vibes carr...",
+          "link": "https://www.espn.com/soccer/story/_/id/49349006/inside-spain-world-cup-camp-good-vibes-carry-title",
+          "description": "As they prepare to face France's four musketeers, Spain have built their own powerful \"all for one\" mentality.",
+          "pubDate": "2026-07-14T17:04:52.000Z",
+          "author": "Graham Hunter",
+          "category": "sports"
+        },
+        {
+          "id": "espn-15-103",
+          "sourceId": "espn",
+          "title": "'Good at the cost of great': How one of the NBA's most iconic franchises was lost to mediocrity",
+          "link": "https://www.espn.com/nba/story/_/id/49350739/inside-hopeful-resurrection-chicago-bulls-six-years-stasis",
+          "description": "The Bulls hired a new front office and coach and drafted at No. 4 in the draft, just like they did in 2020. Here's why they believe this is a new era -- not a repeat of the last.",
+          "pubDate": "2026-07-14T17:20:26.000Z",
+          "author": "Jamal Collier",
+          "category": "sports"
+        },
+        {
+          "id": "espn-16-112",
+          "sourceId": "espn",
+          "title": "Jordan Walker is your 2026 Home Run Derby champion...",
+          "link": "https://www.espn.com/mlb/story/_/id/49337954/mlb-2026-home-run-derby-predictions-live-updates-takeaways-analysis",
+          "description": "We have your one-stop shop for the most power-packed day of the baseball year as the 2026 Derby champion is crowned.",
+          "pubDate": "2026-07-14T16:46:49.000Z",
+          "author": "ESPN",
+          "category": "sports"
+        },
+        {
+          "id": "espn-17-86",
+          "sourceId": "espn",
+          "title": "WNBA Power Rankings: The Fever are running hot",
+          "link": "https://www.espn.com/wnba/story/_/id/49349716/wnba-power-rankings-2026-fever-valkyries",
+          "description": "With Kelsey Mitchell posting her sixth straight game with 25 points or more, Indiana moves up to No. 4. Golden State holds on to the top spot.",
+          "pubDate": "2026-07-14T14:56:11.000Z",
+          "author": "Michael Voepel",
+          "category": "sports"
+        },
+        {
+          "id": "espn-18-117",
+          "sourceId": "espn",
+          "title": "Eight new NFL coach-player pairings Solak can't wa...",
+          "link": "https://www.espn.com/nfl/story/_/id/49351307/2026-nfl-season-coach-coordinator-playcaller-player-matches-scheme-solak",
+          "description": "Can Brian Daboll take Cam Ward's game to another level? How will Sean Payton scheme up Jaylen Waddle? Is the Chris Shula-Myles Garrett combo unstoppable?",
+          "pubDate": "2026-07-14T18:02:11.000Z",
+          "author": "Ben Solak",
+          "category": "sports"
+        },
+        {
+          "id": "espn-19-112",
+          "sourceId": "espn",
+          "title": "Who are the Khoslas? Meet the family set to buy th...",
+          "link": "https://www.espn.com/nfl/story/_/id/49358800/khosla-family-vinod-neeru-neal-san-francisco-49ers-seattle-seahawks",
+          "description": "Vinod Khosla is a prominent venture capitalist, and his wife, Neeru, is an education philanthropist.",
+          "pubDate": "2026-07-14T18:02:11.000Z",
+          "author": "Ben Strauss",
+          "category": "sports"
+        },
+        {
+          "id": "espn-20-102",
+          "sourceId": "espn",
+          "title": "Top 10 quarterbacks: Josh Allen at No. 1? Caleb Wi...",
+          "link": "https://www.espn.com/nfl/story/_/id/49315416/ranking-nfl-top-10-quarterbacks-2026-execs-coaches-scouts",
+          "description": "Who are the elite QBs in the NFL? Which passer ranks No. 1? Where do 2024 draftees land?",
+          "pubDate": "2026-07-14T16:25:50.000Z",
+          "author": "Jeremy Fowler",
+          "category": "sports"
+        },
+        {
+          "id": "espn-21-131",
+          "sourceId": "espn",
+          "title": "Top Open Championship storylines: Scottie and Rory...",
+          "link": "https://www.espn.com/golf/story/_/id/49350340/open-championship-storylines-scottie-scheffler-rory-mcilroy-english-champion-sleepers",
+          "description": "Is Scheffler or McIlroy the favorite? Can an English golfer win on home soil? How will Royal Birkdale play this week? We break down what to watch at the 2026 Open Championship.",
+          "pubDate": "2026-07-14T17:51:05.000Z",
+          "author": "Mark Schlabach and Paolo Uggetti",
+          "category": "sports"
+        },
+        {
+          "id": "espn-22-131",
+          "sourceId": "espn",
+          "title": "Open Championship top 25: Ranking the favorites at...",
+          "link": "https://www.espn.com/golf/story/_/page/Britishopenrankings2026/2026-open-championship-ranking-top-25-scottie-scheffler-rory-mcilroy",
+          "description": "We break down the favorites in the Open Championship.",
+          "pubDate": "2026-07-14T17:51:05.000Z",
+          "author": "Mark Schlabach",
+          "category": "sports"
+        },
+        {
+          "id": "espn-23-118",
+          "sourceId": "espn",
+          "title": "Bracketology: Texas is ahead of schedule",
+          "link": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2027-march-madness-men-field-predictions",
+          "description": "One reclassification has strengthened Texas' case to be a Final Four contender.",
+          "pubDate": "2026-07-14T17:34:39.000Z",
+          "author": "Joe Lunardi",
+          "category": "sports"
+        },
+        {
+          "id": "espn-24-156",
+          "sourceId": "espn",
+          "title": "From unranked in high school to summer league stan...",
+          "link": "https://www.espn.com/mens-college-basketball/story/_/id/49345173/nba-draft-first-round-picks-unranked-sc-next-100-high-school-recruits-summer-league-rookies",
+          "description": "Once overlooked as recruits, these summer league rookies are proving why they were first-round draft picks.",
+          "pubDate": "2026-07-14T16:47:20.000Z",
+          "author": "Paul Biancardi",
+          "category": "sports"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.811Z"
+    },
+    "latino-rebels": {
+      "sourceId": "latino-rebels",
+      "items": [
+        {
+          "id": "latino-rebels-0-60",
+          "sourceId": "latino-rebels",
+          "title": "A Message From Futuro Media",
+          "link": "https://www.latinorebels.com/2023/10/02/futuroemediamessage/",
+          "description": "As you may know, Futuro Media has been dealing with significant financial challenges recently. As a result, we’ve decided to pause Latino Rebels and take a break from our coverage while we work on a plan for Latino Rebels going forward.\nThe post A Message From Futuro Media appeared first on Latino R",
+          "pubDate": "2023-10-02T13:47:00.000Z",
+          "author": "Latino Rebels",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-1-84",
+          "sourceId": "latino-rebels",
+          "title": "Neuro-Inclusivity, Belonging and Radical Hospitality",
+          "link": "https://www.latinorebels.com/2023/09/30/neuroinclusivitybelongingradicalhospitality/",
+          "description": "Latino Rebels Radio goes on the road for a live podcast recording at Mitchell College in New London, Connecticut. Host Julio Ricardo Varela welcomes seven students to discuss how a college such as Mitchell is creating more welcoming, accessible living and learning environments in a world that contin",
+          "pubDate": "2023-09-30T19:06:44.000Z",
+          "author": "Latino Rebels",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-2-77",
+          "sourceId": "latino-rebels",
+          "title": "Court Order Allows Texas&#8217; Floating Barrier on US-Mexico Border to Remain in Place for Now",
+          "link": "https://www.latinorebels.com/2023/09/08/courtorderallowstexasfloatingbarrier/",
+          "description": "NEW ORLEANS (AP) — A federal appeals court on Thursday allowed Texas' floating barrier on a section of the Rio Grande to stay in place for now, a day after a judge called the buoys a threat to the safety of migrants and relations between the U.S. and Mexico.\nThe post Court Order Allows Texas&#8217; ",
+          "pubDate": "2023-09-08T20:49:01.000Z",
+          "author": "The Associated Press",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-3-73",
+          "sourceId": "latino-rebels",
+          "title": "Audience Declines in Traditional U.S. Latino and Black Media Continue",
+          "link": "https://www.latinorebels.com/2023/09/08/audiencedeclineslatinoblackmedia/",
+          "description": "Spanish-language networks Telemundo and Univision suffered audience losses in the past few years. Newspaper distribution rates were also negatively impacted.\nThe post Audience Declines in Traditional U.S. Latino and Black Media Continue appeared first on Latino Rebels.",
+          "pubDate": "2023-09-08T15:29:39.000Z",
+          "author": "Yesica Balderrama",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-4-58",
+          "sourceId": "latino-rebels",
+          "title": "A Judge Orders Texas to Move a Floating Barrier That&#8217;s Used to Deter Migrants Between US and Mexico",
+          "link": "https://www.latinorebels.com/2023/09/07/judgetexasbarrier/",
+          "description": "AUSTIN, Texas (AP) — Texas must move a large floating barrier that Gov. Greg Abbott placed on the river between the U.S. and Mexico this summer as part of the Republican's escalating attempts to stop migrants from crossing America’s southern border, a federal judge ruled Wednesday.\nThe post A Judge ",
+          "pubDate": "2023-09-07T13:28:04.000Z",
+          "author": "The Associated Press",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-5-56",
+          "sourceId": "latino-rebels",
+          "title": "American Homeboy",
+          "link": "https://www.latinorebels.com/2023/09/06/americanhomeboy/",
+          "description": "We welcome The Daily Chela founder Brandon Loran Maxwell to discuss his new film, American Homeboy, for a nuanced discussion of Cholo culture and how it still influences pop culture today.\nThe post American Homeboy appeared first on Latino Rebels.",
+          "pubDate": "2023-09-06T17:00:18.000Z",
+          "author": "Latino Rebels",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-6-57",
+          "sourceId": "latino-rebels",
+          "title": "Democracy in Doubt",
+          "link": "https://www.latinorebels.com/2023/08/25/democracyindoubt/",
+          "description": "Following a historic election victory by the progressive Semilla Party in Guatemala, Latino Rebels Radio producer Oscar Fernandez steps in as guest host to welcome Marco Fonseca, Instructor of Latin American and International Studies at York University in Canada, to discuss how this election almost ",
+          "pubDate": "2023-08-25T13:15:06.000Z",
+          "author": "Latino Rebels",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-7-52",
+          "sourceId": "latino-rebels",
+          "title": "&#8216;Hope, Soledad&#8217; Centers Inner Worlds of Indigenous Mexican Women",
+          "link": "https://www.latinorebels.com/2023/08/23/hopesoledad/",
+          "description": "'Hope, Soledad' is an arresting, powerful film portraying a different slice of Latinidad than is normally seen on screen, centering the interior lives of two Indigenous Mexican women, and drawing on their own cultural traditions in a world that does not value them.\nThe post &#8216;Hope, Soledad&#821",
+          "pubDate": "2023-08-23T15:35:33.000Z",
+          "author": "Cristina Escobar",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-8-64",
+          "sourceId": "latino-rebels",
+          "title": "Puerto Rico&#8217;s Pro Basketball League Sees a Rebirth",
+          "link": "https://www.latinorebels.com/2023/08/22/puertoricoprobasketball/",
+          "description": "The revitalization of Puerto Rico's professional basketball league is thanks largely to new team owners with the right vision ---like music superstar Bad Bunny--- and an influx of former NBA players looking to extend their careers. Latino Rebels speaks with Héctor Horta, owner of this year's champio",
+          "pubDate": "2023-08-22T17:57:36.000Z",
+          "author": "Rafael Riera",
+          "category": "culture"
+        },
+        {
+          "id": "latino-rebels-9-66",
+          "sourceId": "latino-rebels",
+          "title": "María and Maui (OPINION)",
+          "link": "https://www.latinorebels.com/2023/08/21/mariamauipuertoricohawaii/",
+          "description": "\"As I watched TV coverage of the wildfires incinerating Maui... a single thought raged in my head: Colonialism is a brutal, never-ending story... The footage triggered memories of Hurricane María, which devastated Puerto Rico in 2017 and transformed the archipelago into a rich man's paradise—and a n",
+          "pubDate": "2023-08-21T21:26:41.000Z",
+          "author": "Susanne Ramirez de Arellano",
+          "category": "culture"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:08.089Z"
+    },
+    "npr": {
+      "sourceId": "npr",
+      "items": [
+        {
+          "id": "npr-0-101",
+          "sourceId": "npr",
+          "title": "Environmental groups sue government to stop a big change to the Endangered Species Act",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5891858/trump-esa-harm-endangered-species-act-threatened-lawsuit",
+          "description": "By altering the definition of the word \"harm\" as used by the Endangered Species Act, the Trump administration may limit how wildlife is protected in the United States. Environmental groups are suing.",
+          "pubDate": "2026-07-14T16:46:18.000Z",
+          "author": "Ari Daniel",
+          "category": "news"
+        },
+        {
+          "id": "npr-1-129",
+          "sourceId": "npr",
+          "title": "Investigative journalist reports on the abuse inside ICE&apos;s largest detention facility",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5893335/investigative-journalist-reports-on-the-abuse-inside-ices-largest-detention-facility",
+          "description": "<em>The New Yorker</em> writer Jonathan Blitzer says thousands of people are being held in tents in the El Paso desert, where inhumane conditions have become a tool to pressure people to accept deportation.",
+          "pubDate": "2026-07-14T15:41:07.000Z",
+          "author": "Tonya Mosley",
+          "category": "news"
+        },
+        {
+          "id": "npr-2-68",
+          "sourceId": "npr",
+          "title": "Why your favorite international artist might be reconsidering their next U.S. tour",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5783845/visa-process-artists-us",
+          "description": "The visa process for visiting artists has always been complicated and expensive. Under the current administration, it&apos;s gotten significantly worse.",
+          "pubDate": "2026-07-14T14:46:11.000Z",
+          "author": "Josie Fischels",
+          "category": "news"
+        },
+        {
+          "id": "npr-3-94",
+          "sourceId": "npr",
+          "title": "Inflation slowed sharply -- but it may not last",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5893379/inflation-economy-consumer-prices-federal-reserve",
+          "description": "Annual inflation hit 3.5% in June, down from May&apos;s more than three-year high — but the resumption of the conflict with Iran threaten to push up inflation as energy costs once again spike.",
+          "pubDate": "2026-07-14T14:40:20.000Z",
+          "author": "Stephan Bisaha",
+          "category": "news"
+        },
+        {
+          "id": "npr-4-129",
+          "sourceId": "npr",
+          "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
+          "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
+          "description": "The United States plans to reinstate a blockade over the Strait of Hormuz today. And, several states are suing to stop the massive Paramount-Warner Bros. merger.",
+          "pubDate": "2026-07-14T12:18:58.000Z",
+          "author": "Brittney Melton",
+          "category": "news"
+        },
+        {
+          "id": "npr-5-114",
+          "sourceId": "npr",
+          "title": "Family of a man shot by agents responding to a 911 call seeks answers",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5891873/family-of-a-man-shot-by-agents-responding-to-a-911-call-seeks-answers",
+          "description": "A troubling pattern of federal agents fatally shooting civilians is developing, with deaths in Maine, Texas and Tennessee. The family of a man shot by agents told NPR they want answers.",
+          "pubDate": "2026-07-14T11:26:15.000Z",
+          "author": "Juliana Kim",
+          "category": "news"
+        },
+        {
+          "id": "npr-6-138",
+          "sourceId": "npr",
+          "title": "&apos;The Trojan Teddy Bear&apos;: The promise and peril of childhood in the age of AI",
+          "link": "https://www.npr.org/sections/planet-money/2026/07/14/g-s1-133066/the-trojan-teddy-bear-the-promise-and-peril-of-childhood-in-the-age-of-ai",
+          "description": "AI is moving beyond chatbots and into toys, dolls, and robots built to befriend children. A leading child-development expert says the technology offers real promise — but also risks crowding out the human relationships children need most.",
+          "pubDate": "2026-07-14T10:30:00.000Z",
+          "author": "Greg Rosalsky",
+          "category": "news"
+        },
+        {
+          "id": "npr-7-60",
+          "sourceId": "npr",
+          "title": "Trump scraps his Hormuz shipping charge idea but presses ahead with an Iran blockade",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+          "description": "The U.S. military announced it will begin its blockade of Iranian ships over the Strait of Hormuz on Tuesday, as Iran vowed to assert its own control over the critical international waterway.",
+          "pubDate": "2026-07-14T09:56:45.000Z",
+          "author": "NPR Staff",
+          "category": "news"
+        },
+        {
+          "id": "npr-8-63",
+          "sourceId": "npr",
+          "title": "Morning news brief",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5891540/morning-news-brief",
+          "description": "Trump says the U.S. will collect tolls and impose blockade in the Strait of Hormuz, man killed by federal agents in Maine, states sue to stop Paramount-Warner Bros merger.",
+          "pubDate": "2026-07-14T09:02:31.000Z",
+          "author": "A Martínez",
+          "category": "news"
+        },
+        {
+          "id": "npr-9-103",
+          "sourceId": "npr",
+          "title": "Some states will ask voters to make it harder to pass constitutional amendments",
+          "link": "https://www.npr.org/2026/07/14/nx-s1-5877715/direct-democracy-state-constitutional-amendment-thresholds",
+          "description": "Several states have ballot measures this year that could raise the thresholds needed to pass state constitutional amendments. Many advocates are critical of such limits on direct democracy.",
+          "pubDate": "2026-07-14T09:00:00.000Z",
+          "author": "Ashley Lopez",
+          "category": "news"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.808Z"
+    },
+    "ars-technica": {
+      "sourceId": "ars-technica",
+      "items": [
+        {
+          "id": "ars-technica-0-107",
+          "sourceId": "ars-technica",
+          "title": "New York bans data center construction for a year, rattling AI industry",
+          "link": "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+          "description": "",
+          "pubDate": "2026-07-14T15:06:28.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-1-109",
+          "sourceId": "ars-technica",
+          "title": "Probe into explosive diarrheal cases points to Taco Bell and bad lettuce",
+          "link": "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
+          "description": "",
+          "pubDate": "2026-07-14T14:49:02.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-2-105",
+          "sourceId": "ars-technica",
+          "title": "Boomers, not Gen Z, are the generation cutting back most on alcohol",
+          "link": "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
+          "description": "",
+          "pubDate": "2026-07-14T13:19:16.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-3-106",
+          "sourceId": "ars-technica",
+          "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+          "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+          "description": "",
+          "pubDate": "2026-07-14T01:17:14.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-4-116",
+          "sourceId": "ars-technica",
+          "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+          "link": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/",
+          "description": "",
+          "pubDate": "2026-07-13T22:07:34.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-5-120",
+          "sourceId": "ars-technica",
+          "title": "The US government warns that Russia state hackers are coming after your router",
+          "link": "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
+          "description": "",
+          "pubDate": "2026-07-13T21:03:07.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-6-117",
+          "sourceId": "ars-technica",
+          "title": "Ukrainian drone strikes forced Russia to stop shipping in vital sea corridor",
+          "link": "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
+          "description": "",
+          "pubDate": "2026-07-13T20:41:26.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-7-99",
+          "sourceId": "ars-technica",
+          "title": "California creates $3,500 rebate for new electric vehicle buyers",
+          "link": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+          "description": "",
+          "pubDate": "2026-07-13T19:52:48.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-8-122",
+          "sourceId": "ars-technica",
+          "title": "Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "link": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets/",
+          "description": "",
+          "pubDate": "2026-07-13T19:17:51.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-9-119",
+          "sourceId": "ars-technica",
+          "title": "Solution to Feynman's reverse sprinkler puzzle also applies to \"silly sprinklers\"",
+          "link": "https://arstechnica.com/science/2026/07/solution-to-feynmans-reverse-sprinkler-puzzle-also-applies-to-silly-sprinklers/",
+          "description": "",
+          "pubDate": "2026-07-13T19:00:47.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-10-118",
+          "sourceId": "ars-technica",
+          "title": "States sue to block Paramount/WBD merger that was approved by Trump admin",
+          "link": "https://arstechnica.com/tech-policy/2026/07/states-sue-to-block-paramount-wbd-merger-that-was-approved-by-trump-admin/",
+          "description": "",
+          "pubDate": "2026-07-13T18:34:35.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-11-90",
+          "sourceId": "ars-technica",
+          "title": "Tom Cruise is utterly transformed in Digger trailer",
+          "link": "https://arstechnica.com/culture/2026/07/digger-trailer-is-giving-big-dr-strangelove-vibes/",
+          "description": "",
+          "pubDate": "2026-07-13T17:49:56.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-12-130",
+          "sourceId": "ars-technica",
+          "title": "Apple and Samsung benefit as memory shortage pushes smartphone shipments to historic lows",
+          "link": "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
+          "description": "",
+          "pubDate": "2026-07-13T17:18:25.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-13-127",
+          "sourceId": "ars-technica",
+          "title": "Colorado will decide whether a \"right to natural gas\" is added to state constitution",
+          "link": "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
+          "description": "",
+          "pubDate": "2026-07-13T16:49:35.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-14-104",
+          "sourceId": "ars-technica",
+          "title": "Hackers quickly prove that Neo Geo Doom ports are not \"impossible\"",
+          "link": "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
+          "description": "",
+          "pubDate": "2026-07-13T16:37:14.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-15-92",
+          "sourceId": "ars-technica",
+          "title": "A \"disaster waiting to happen\"? Industry officials worry about Crew Dragon availability.",
+          "link": "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
+          "description": "",
+          "pubDate": "2026-07-13T16:05:03.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-16-94",
+          "sourceId": "ars-technica",
+          "title": "Now, defenders are embracing the prompt injection, too",
+          "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+          "description": "",
+          "pubDate": "2026-07-13T15:06:34.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-17-104",
+          "sourceId": "ars-technica",
+          "title": "Simulating everything, sort of: The promise and limits of world models",
+          "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+          "description": "",
+          "pubDate": "2026-07-13T11:00:51.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-18-126",
+          "sourceId": "ars-technica",
+          "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+          "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+          "description": "",
+          "pubDate": "2026-07-12T11:12:19.000Z",
+          "category": "tech"
+        },
+        {
+          "id": "ars-technica-19-91",
+          "sourceId": "ars-technica",
+          "title": "A Jupiter-size planet that escaped its star's death",
+          "link": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
+          "description": "",
+          "pubDate": "2026-07-11T12:00:58.000Z",
+          "category": "tech"
+        }
+      ],
+      "fetchedAt": "2026-07-14T17:53:07.812Z"
+    }
+  }
+}

@@ -1,13 +1,67 @@
 import type { FeedItem, FeedSource, FeedCache } from '@/types';
 
-const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
+// CORS proxy fallbacks — tried in order for live browser refresh
+const CORS_PROXIES = [
+  (url: string) => `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`,
+  (url: string) => `https://api.allorigins.win/get?url=${encodeURIComponent(url)}`,
+  (url: string) => `https://corsproxy.io/?${encodeURIComponent(url)}`,
+];
+
+// Path to build-time cached feeds (same origin, always works on GitHub Pages)
+const CACHE_URL = `${import.meta.env.BASE_URL}feeds-cache.json`;
+
+interface FeedsCacheFile {
+  generatedAt: string;
+  totalItems: number;
+  feeds: Record<string, {
+    sourceId: string;
+    items: Array<Omit<FeedItem, 'pubDate'> & { pubDate: string }>;
+    fetchedAt: string;
+    error?: string;
+  }>;
+}
+
+// Load pre-fetched feeds bundled at build time
+export async function loadCachedFeeds(): Promise<Map<string, FeedCache> | null> {
+  try {
+    const response = await fetch(CACHE_URL);
+    if (!response.ok) return null;
+
+    const data = (await response.json()) as FeedsCacheFile;
+    const cache = new Map<string, FeedCache>();
+
+    for (const [sourceId, feed] of Object.entries(data.feeds)) {
+      cache.set(sourceId, {
+        sourceId,
+        items: feed.items.map((item) => ({
+          ...item,
+          pubDate: new Date(item.pubDate),
+        })),
+        fetchedAt: new Date(feed.fetchedAt),
+        error: feed.error,
+      });
+    }
+
+    return cache;
+  } catch {
+    return null;
+  }
+}
 
 // Parse RSS/Atom XML into FeedItem array
 function parseFeedXml(xml: string, source: FeedSource): FeedItem[] {
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(xml, 'text/xml');
+  // Handle allorigins JSON wrapper format
+  let xmlContent = xml;
+  try {
+    const json = JSON.parse(xml) as { contents?: string };
+    if (json.contents) xmlContent = json.contents;
+  } catch {
+    // Not JSON — use raw XML
+  }
 
-  // Detect parse errors
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xmlContent, 'text/xml');
+
   const parseError = doc.querySelector('parsererror');
   if (parseError) {
     throw new Error(`XML parse error for ${source.name}`);
@@ -15,7 +69,6 @@ function parseFeedXml(xml: string, source: FeedSource): FeedItem[] {
 
   const items: FeedItem[] = [];
 
-  // RSS 2.0 items
   const rssItems = doc.querySelectorAll('item');
   if (rssItems.length > 0) {
     rssItems.forEach((item, index) => {
@@ -29,7 +82,6 @@ function parseFeedXml(xml: string, source: FeedSource): FeedItem[] {
       const author = item.querySelector('author')?.textContent?.trim() ??
         item.querySelector('dc\\:creator')?.textContent?.trim();
 
-      // Extract image from media or enclosure
       const mediaContent = item.querySelector('media\\:content, enclosure[type^="image"]');
       const imageUrl = mediaContent?.getAttribute('url') ?? extractImageFromHtml(description);
 
@@ -48,7 +100,6 @@ function parseFeedXml(xml: string, source: FeedSource): FeedItem[] {
     return items;
   }
 
-  // Atom entries
   const atomEntries = doc.querySelectorAll('entry');
   atomEntries.forEach((entry, index) => {
     const title = entry.querySelector('title')?.textContent?.trim() ?? 'Untitled';
@@ -107,21 +158,36 @@ function hashString(str: string): string {
   return Math.abs(hash).toString(36);
 }
 
-// Fetch a single feed source via CORS proxy
-export async function fetchFeed(source: FeedSource): Promise<FeedCache> {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 15000);
+// Try fetching via multiple CORS proxy fallbacks
+async function fetchViaProxy(source: FeedSource): Promise<string> {
+  let lastError = 'All proxies failed';
 
-  try {
-    const response = await fetch(`${CORS_PROXY}${encodeURIComponent(source.url)}`, {
-      signal: controller.signal,
-    });
+  for (const buildUrl of CORS_PROXIES) {
+    try {
+      const controller = new AbortController();
+      const timeout = setTimeout(() => controller.abort(), 12000);
 
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
+      const response = await fetch(buildUrl(source.url), { signal: controller.signal });
+      clearTimeout(timeout);
+
+      if (!response.ok) continue;
+
+      const text = await response.text();
+      if (text.includes('<rss') || text.includes('<feed') || text.includes('"contents"')) {
+        return text;
+      }
+    } catch (err) {
+      lastError = err instanceof Error ? err.message : 'Proxy error';
     }
+  }
 
-    const xml = await response.text();
+  throw new Error(lastError);
+}
+
+// Fetch a single feed source via CORS proxy (browser live refresh)
+export async function fetchFeed(source: FeedSource): Promise<FeedCache> {
+  try {
+    const xml = await fetchViaProxy(source);
     const items = parseFeedXml(xml, source).slice(0, 25);
 
     return {
@@ -137,8 +203,6 @@ export async function fetchFeed(source: FeedSource): Promise<FeedCache> {
       fetchedAt: new Date(),
       error: message,
     };
-  } finally {
-    clearTimeout(timeout);
   }
 }
 
@@ -148,7 +212,7 @@ export async function fetchAllFeeds(
   onProgress?: (completed: number, total: number) => void
 ): Promise<Map<string, FeedCache>> {
   const cache = new Map<string, FeedCache>();
-  const concurrency = 4;
+  const concurrency = 3;
   let completed = 0;
 
   for (let i = 0; i < sources.length; i += concurrency) {

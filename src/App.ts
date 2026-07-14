@@ -8,7 +8,7 @@ import { SourcesView } from '@/components/SourcesView';
 import { AnalyticsView } from '@/components/AnalyticsView';
 import { ExtremismMonitorView } from '@/components/ExtremismMonitorView';
 import { FEED_SOURCES } from '@/data/feeds';
-import { fetchAllFeeds } from '@/services/feedService';
+import { fetchAllFeeds, loadCachedFeeds } from '@/services/feedService';
 import { anim } from '@/utils/animations';
 import type { ViewMode } from '@/types';
 
@@ -126,10 +126,23 @@ export class App {
     store.setLoadProgress(0, FEED_SOURCES.length);
 
     try {
-      const cache = await fetchAllFeeds(FEED_SOURCES, (completed, total) => {
+      // Load build-time cached feeds first (works on GitHub Pages — no CORS)
+      const cached = await loadCachedFeeds();
+      if (cached && cached.size > 0) {
+        store.setFeedCache(cached);
+        store.setLoadProgress(FEED_SOURCES.length, FEED_SOURCES.length);
+      }
+
+      // Attempt live refresh via CORS proxies in background
+      const liveCache = await fetchAllFeeds(FEED_SOURCES, (completed, total) => {
         store.setLoadProgress(completed, total);
       });
-      store.setFeedCache(cache);
+
+      // Only replace cache if live fetch returned actual articles
+      const liveItemCount = [...liveCache.values()].reduce((sum, f) => sum + f.items.length, 0);
+      if (liveItemCount > 0) {
+        store.setFeedCache(liveCache);
+      }
     } finally {
       store.setLoading(false);
     }

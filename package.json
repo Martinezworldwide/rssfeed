@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "node scripts/fetch-feeds.mjs && tsc && vite build",
     "build:pages": "npm run build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit"
