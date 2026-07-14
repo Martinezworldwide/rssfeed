@@ -1,21 +1,119 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-        <title>Your Site Title</title>
+        <title>Super RSS Feed — Feed Intelligence Platform</title>
         <link>https://martinezworldwide.github.io/rssfeed</link>
-        <description>RSS Feed</description>
+        <description>High-tech multi-source news aggregator with cybersecurity extremism monitoring, real-time analytics, and multi-website view. Built with TypeScript and GSAP.</description>
         <language>en-us</language>
-        
-        <!-- Example of an individual item in the feed -->
+        <lastBuildDate>Tue, 14 Jul 2026 16:00:00 GMT</lastBuildDate>
+        <generator>Super RSS Feed v2.0</generator>
+
         <item>
             <title>CNN</title>
             <link>https://www.cnn.com</link>
-            <description>Cable News Network</description>
-            <pubDate>Tue, 03 Nov 2024 16:00:00 GMT</pubDate>
+            <description>Cable News Network — breaking news and world coverage</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
             <guid>https://www.cnn.com</guid>
+            <category>news</category>
         </item>
-        
-        <!-- Add more items as needed -->
-        
+
+        <item>
+            <title>Fox News</title>
+            <link>https://www.foxnews.com</link>
+            <description>Fox News Digital — under extremism watch (high tier)</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.foxnews.com</guid>
+            <category>politics</category>
+        </item>
+
+        <item>
+            <title>Breitbart</title>
+            <link>https://www.breitbart.com</link>
+            <description>Breitbart News — under cybersecurity extremism watch (critical tier)</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.breitbart.com</guid>
+            <category>politics</category>
+        </item>
+
+        <item>
+            <title>MSNBC</title>
+            <link>https://www.msnbc.com</link>
+            <description>MSNBC — progressive news and political commentary</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.msnbc.com</guid>
+            <category>politics</category>
+        </item>
+
+        <item>
+            <title>BBC World</title>
+            <link>https://www.bbc.com/news/world</link>
+            <description>BBC World News — international coverage</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.bbc.com/news/world</guid>
+            <category>world</category>
+        </item>
+
+        <item>
+            <title>TechCrunch</title>
+            <link>https://techcrunch.com</link>
+            <description>Startup and technology news from Silicon Valley</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://techcrunch.com</guid>
+            <category>tech</category>
+        </item>
+
+        <item>
+            <title>Latino Rebels</title>
+            <link>https://www.latinorebels.com</link>
+            <description>Latinx news, culture, and social justice reporting</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.latinorebels.com</guid>
+            <category>culture</category>
+        </item>
+
+        <item>
+            <title>Ars Technica</title>
+            <link>https://arstechnica.com</link>
+            <description>Deep-dive technology journalism and science</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://arstechnica.com</guid>
+            <category>tech</category>
+        </item>
+
+        <item>
+            <title>NPR News</title>
+            <link>https://www.npr.org</link>
+            <description>National Public Radio top stories</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.npr.org</guid>
+            <category>news</category>
+        </item>
+
+        <item>
+            <title>ESPN</title>
+            <link>https://www.espn.com</link>
+            <description>Sports headlines, scores, and analysis</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.espn.com</guid>
+            <category>sports</category>
+        </item>
+
+        <item>
+            <title>Reuters</title>
+            <link>https://www.reuters.com</link>
+            <description>Global business and financial wire service</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.reuters.com</guid>
+            <category>business</category>
+        </item>
+
+        <item>
+            <title>The Verge</title>
+            <link>https://www.theverge.com</link>
+            <description>Technology, science, art, and culture</description>
+            <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+            <guid>https://www.theverge.com</guid>
+            <category>tech</category>
+        </item>
     </channel>
 </rss>
