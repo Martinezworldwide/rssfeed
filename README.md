@@ -28,6 +28,35 @@ The Cybersecurity Extremism Monitor scans flagged sources for:
 - **Critical** — Breitbart
 - **High** — Fox News
 
+## GitHub Pages Deployment
+
+GitHub Pages cannot run TypeScript. You must serve the **built** files in `docs/`, not the source `index.html` at the repo root.
+
+### Option A — Deploy from branch (recommended for you)
+
+1. Go to **Settings → Pages**
+2. Set **Source** to **Deploy from a branch**
+3. **Branch:** `cursor/super-rss-rebuild-69b8` (or `main` after merge)
+4. **Folder:** `/docs` ← **not** `/ (root)`
+5. Save and wait 1–2 minutes
+
+The `docs/` folder contains the compiled JavaScript/CSS from `npm run build`.
+
+### Option B — GitHub Actions (automatic)
+
+1. Go to **Settings → Pages**
+2. Set **Source** to **GitHub Actions**
+3. Push to `main` — the workflow builds `docs/` and deploys automatically
+
+### Rebuild after code changes
+
+```bash
+npm run build
+git add docs/
+git commit -m "Rebuild docs for GitHub Pages"
+git push
+```
+
 ## Quick Start
 
 ```bash
